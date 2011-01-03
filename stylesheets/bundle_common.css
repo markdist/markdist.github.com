@@ -1186,10 +1186,11 @@ tr:hover .line-comments {
 #header .logo.boring {
 	left: 20px;
 	top: 14px;
+	font: bold 250% "Verdana", sans-serif;
 }
 
 #header .logo img {
-	position: absolute;
+	//position: absolute;
 	top: 0;
 	left: 0;
 	-webkit-transition: opacity .25s linear;
