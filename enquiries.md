@@ -17,7 +17,7 @@ contact our sales team by calling +355 866 xx-xxxx or emailing
 [info@markdist.com](mailto:info@markdist.com)
 
 <center>
-<img src="images/MD-warehouse.png" alt="M&D Warehouse" height="300px" />
+<img src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" />
 </center>
 
 
