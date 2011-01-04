@@ -166,7 +166,8 @@ html {
 }
 
 a {
-	color: #4183c4;
+	//color: #4183c4;
+	color: #EE1133;
 	text-decoration: none;
 }
 
@@ -1187,6 +1188,7 @@ tr:hover .line-comments {
 	left: 20px;
 	top: 14px;
 	font: bold 250% "Verdana", sans-serif;
+	text-align: center;
 }
 
 #header .logo img {

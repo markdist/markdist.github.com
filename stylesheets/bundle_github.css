@@ -8232,8 +8232,7 @@ ul.repo-stats li.forks.forked a {
 	margin: 25px 0 0 0;
 	padding: 20px 0 15px 0;
 	font-size: 12px;
-	border-top: 2px solid #ddd;
-	background: #f1f1f1;
+	background: #fff url(images/modules/footer/background-v2.png) 0 0 repeat-x;
 }
 
 #footer p.company {
