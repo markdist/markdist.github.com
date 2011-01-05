@@ -1,0 +1,51 @@
+---
+title: Brands
+layout: wikistyle
+---
+
+h1. Brands
+
+!images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)!
+* Laundry LC, Pampers and Health & Beauty Care.
+
+!images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)!
+* Health, Beauty Care, Kitchen appliances.
+
+!images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)!
+* Swirl plastic sachets, Aluminium foil
+
+!images/brands/Reckitt_Benckiser_Logo.png(Reckitt Benckiser)!
+* Durex & Scholl products
+
+!images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)!
+* President milk & butter & french cheese, Galbani Italian cheese, Societe cheese, Dukat milk, yogurt)
+
+* Granini
+** Fruit juice,Syrup.
+* Schwartau-Corny
+** Muesli bars, jam
+* Dr Oetker
+** Baking, cornflakes and dessert mixes
+* Perfetti Van Melle
+** Mentos rolls & gums Chupa Chups lollipops
+* Vodafone
+** Pre paid Connections
+** Post paid Contracts
+** Vouchers Electronic Vouchers Vodafone Shops
+* Bacardi - Martini
+** Bacardi, Martini, Bombay, Eristoff, Grey Goose, Brown - Forman Jack Daniels, Finlandia, Jagermeister Jagermeister
+
+* Alexander-Bottega
+** Italian wines & grapa,
+* Danesi cafe
+** Italian espresso,
+* Bic
+** Stationary
+* SONY
+** Recording Media, Energy
+* 3M
+** Office & Stationary,
+* Fabriano
+** Office paper
+* Grafotisac
+** Office paper
