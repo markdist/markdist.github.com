@@ -268,7 +268,7 @@ input.button {
 
 #header {
 	width: 820px;
-	position: relative;
+	/*position: relative;*/
 	height: 103px;
 	background: #CCC url(header.png) no-repeat center top;
 	padding: 0;
@@ -281,7 +281,8 @@ input.button {
 	padding: 0;
 	background: transparent;
 	top: 34px;
-	left: 34px;
+/*	left: 34px;*/
+	left: 345px;
 }
 
 #header h1.logo-text {
@@ -298,18 +299,6 @@ input.button {
 	top: 42px;
 /*	left: 120px;*/
 	text-align: center;
-}
-
-#header p#slogan {
-	position: absolute;
-	margin: 0;
-	padding: 0;
-	font: normal 12px 'Trebuchet MS', Arial, Sans-serif;
-	text-transform: none;
-	color: #FFF;
-	/* change the values of top and left to adjust the position of the slogan */
-	top: 70px;
-	left: 55px;
 }
 
 /* @end */
