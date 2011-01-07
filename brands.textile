@@ -78,14 +78,3 @@ h2. Office & Stationary
 * Grafotisac
 * Sony
 
-<!--
-* Canon
-* Dell
-* Epson
-* HP
-* Kyocera
-* Oki
-* Samsung
-* Toshiba
-* Xerox
--->
