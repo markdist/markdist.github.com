@@ -52,10 +52,11 @@ h2. Food & Drink
 * Schwartau
 * Dr Oetker
 * Ritter Sport
-* Danesi Cafe
-* Milford
 * August Storck KG
 ** Nimm2, Merci, Toffifee, Wethers Original, Riesen, Mamba
+* Danesi Cafe
+* Milford
+* Messmer
 
 h2. Mobile Phone
 
