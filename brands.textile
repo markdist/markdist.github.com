@@ -5,47 +5,86 @@ layout: wikistyle
 
 h1. Brands
 
-!images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)!
-* Laundry LC, Pampers and Health & Beauty Care.
+h2. Health, Beauty and Home
 
-!images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)!
-* Health, Beauty Care, Kitchen appliances.
+!images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! !images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Fairy_Logo.jpg(Fairy)!
+!images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholl's_Logo.png(Dr Scholl's)!
+* P&G 
+** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Pampers, Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, Wellaton, Londa, AZ, Alldays, Always, Gillette, Braun, Oral-B, Old Spice
+* Durex
+* Dr Scholl's
+* Swirl 
+* Topitts
+* SC Johnson
+** Pronto, Oust, Glade, Duck, Mr Muscle (Muscolo), Autan, Baygon, Raid, Shout
 
-!images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)!
-* Swirl plastic sachets, Aluminium foil
+h2. Alcohol & Tobacco
 
-!images/brands/Reckitt_Benckiser_Logo.png(Reckitt Benckiser)!
-* Durex & Scholl products
+!images/brands/Davidoff_Logo.jpg(Davidoff)! !images/brands/Bacardi_Logo.jpg(Bacardi)! !images/brands/Martini_Logo.jpg(Martini)!
+
+* Imperial Tobacco
+** Davidoff, West, Gauloises, Maxim Slims, Drum, Rizla
+* Bacardi-Martini
+** Bacardi, Martini, Bombay Sapphire, Eristoff, Grey Goose, Dewar's
+* Brown-Forman
+** Jack Daniels, Finlandia, Jagermeister, Southern Comfort
+* Berry Bros. & Rudd
+** Cutty Sark
+* Bamberger Kaiserdom
+* Tequila Sierra
+* Alexander-Bottega
+* Boutari
+* Godet
+* Anheuser–Busch
+** Becks, Stella Artois
+
+h2. Food & Drink
 
 !images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)!
-* President milk & butter & french cheese, Galbani Italian cheese, Societe cheese, Dukat milk, yogurt)
-
-* Granini
-** Fruit juice,Syrup.
-* Schwartau-Corny
-** Muesli bars, jam
-* Dr Oetker
-** Baking, cornflakes and dessert mixes
+* P&G
+** Pringles
+* Lactalis Group
+** President, Galbani, Societe, Dukat
 * Perfetti Van Melle
-** Mentos rolls & gums Chupa Chups lollipops
+** Mentos, Chupa Chups, Alpenliebe, Golia
+* Granini
+* Bora Water
+* Schwartau
+* Dr Oetker
+* Ritter Sport
+* Danesi Cafe
+* Milford
+* August Storck KG
+** Nimm2, Merci, Toffifee, Wethers Original, Riesen, Mamba
+
+h2. Mobile Phone
+
+!images/brands/Vodafone_Logo.jpg(Vodafone)!
+
 * Vodafone
 ** Pre paid Connections
 ** Post paid Contracts
 ** Vouchers Electronic Vouchers Vodafone Shops
-* Bacardi - Martini
-** Bacardi, Martini, Bombay, Eristoff, Grey Goose, Brown - Forman Jack Daniels, Finlandia, Jagermeister Jagermeister
 
-* Alexander-Bottega
-** Italian wines & grapa,
-* Danesi cafe
-** Italian espresso,
-* Bic
-** Stationary
-* SONY
-** Recording Media, Energy
+h2. Office & Stationary
+
+!images/brands/3M_Logo.jpg(3M)! !images/brands/BIC_Logo.jpg(BIC)! !images/brands/Sony_Logo.jpg(Sony)!
+
 * 3M
-** Office & Stationary,
+* Bic
+* Duracell
 * Fabriano
-** Office paper
 * Grafotisac
-** Office paper
+* Sony
+
+<!--
+* Canon
+* Dell
+* Epson
+* HP
+* Kyocera
+* Oki
+* Samsung
+* Toshiba
+* Xerox
+-->

@@ -42,7 +42,8 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 150%;
-	font-weight: normal;
+	font-weight: bold;
+	text-transform: uppercase;
 	/*color: #006699;*/
 	color: #000;
 }
@@ -392,17 +393,15 @@ input.button {
 #main h2 {
 	margin-top: 10px;
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
-	color: #88ac0b;
-	padding: 5px 0 5px 25px;
+	color: #999999;
+	/*padding: 5px 0 5px 25px;*/
 	border-bottom: 1px solid #EFF0F1;
-	background: #FFF url(square-green.png) no-repeat 3px 50%;
 	text-transform: none;
 }
 
 #main h2 a {
 	background: none;
-	color: #88ac0b;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 #main ul li {
