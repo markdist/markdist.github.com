@@ -63,9 +63,6 @@ h2. Mobile Phone
 !images/brands/Vodafone_Logo.jpg(Vodafone)!
 
 * Vodafone
-** Pre paid Connections
-** Post paid Contracts
-** Vouchers Electronic Vouchers Vodafone Shops
 
 h2. Office & Stationary
 
