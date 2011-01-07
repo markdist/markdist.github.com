@@ -3,47 +3,37 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
+    <meta name="Description" content="Marketing &amp; Distribution, Albania" />
+    <meta name="Keywords" content="Marketing, Distribution, Albania, Tirana" />
+    <meta name="Robots" content="index,follow" />
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <title>M&amp;D Albania - {{ page.title }}</title>
-    <link href="stylesheets/bundle_common.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="stylesheets/bundle_github.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="images/Envision.css" media="screen" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <div id="main">
-      <div id="header" class="basic" style="margin-bottom:20px">
+    <div id="wrap">
+      <div id="header">
+        <a href="/"><img class="logo-image" src="images/MD-logo.png" alt="M&amp;D Logo" height="64" style="background-color: transparent; border: 0px"/></a>
+        <h1 class="logo-text">Marketing &amp; Distribution - Albania</h1>
+      </div>
+      <div id="menu">
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/location.html">Location</a></li>
+          <li><a href="/brands.html">Brands</a></li>
+          <li><a href="/enquiries.html">Contact Us</a></li>
+        </ul>
+      </div>
 
-        <div class="site">
-          <div class="logo boring">
-            <a href="/"><img src="images/MD-logo.png" alt="M&amp;D Logo" height="64"/></a>
-            Marketing &amp; Distribution - Albania
-          </div>
-          <div class="topsearch">
-            <ul class="nav logged_out" style="margin-top:20px">
-              <li><a href="/">About</a></li>
-              <li><a href="/location.html">Location</a></li>
-              <li><a href="/brands.html">Brands</a></li>              
-              <li><a href="/enquiries.html">Enquiries</a></li>
-            </ul>
-          </div>
+      <div id="content-wrap">
+        <div id="main">
+          {{ content }}
         </div>
       </div>
 
-      <div id="content" class="site">
-
-        {{ content }}
-
-      </div>
-
-      <div class="push"></div>
-    </div>
-
-    <div id="footer">
-      <div class="site">
-
-        <div class="info">
-          <div class="company">&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</div>
-        </div>
+      <div id="footer">
+        <p>
+        <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</div>
       </div>
     </div>
   </body>
