@@ -1,10 +1,10 @@
 ---
-title: Enquiries
+title: Contact Us
 layout: wikistyle
 ---
 
-Enquiries
-=========
+Contact Us
+==========
 
 Contract us either to market and distribute your products, or to purchase goods from our existing portfolio for your own distribution or onward sales.
 
