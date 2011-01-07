@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/images/Envision.css */
+
 /* Envision.css */
 
 /* @group Top Elements */
@@ -26,7 +28,6 @@ a, a:visited {
 }
 
 a:hover {
-	color: #88ac0b;
 	background: inherit;
 	text-decoration: underline;
 }
@@ -42,7 +43,8 @@ h1, h2, h3 {
 h1 {
 	font-size: 150%;
 	font-weight: normal;
-	color: #006699;
+	/*color: #006699;*/
+	color: #000;
 }
 
 h2 {
@@ -60,10 +62,17 @@ h3 {
 
 /* @group Images */
 
-img {
+img.border {
 	background: #FAFAFA;
 	border: 1px solid #E5E5E5;
 	padding: 8px;
+}
+
+img {
+	background: #FFF;
+	border: 0;
+	padding: 2px;
+	max-width: 712px;
 }
 
 img.float-right {
@@ -265,19 +274,29 @@ input.button {
 	color: #FFF;
 }
 
-#header h1#logo-text a {
+#header img.logo-image{
 	position: absolute;
 	margin: 0;
 	padding: 0;
-	font: bolder 44px 'Trebuchet MS', Arial, Sans-serif;
-	letter-spacing: -2px;
+	background: transparent;
+	top: 34px;
+	left: 34px;
+}
+
+#header h1.logo-text {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	font: bold 32px 'Gill Sans', 'Trebuchet MS', Arial, Sans-serif;
+	/* letter-spacing: -2px;*/
 	color: #FFF;
 	text-transform: none;
 	text-decoration: none;
 	background: transparent;
 	/* change the values of top and left to adjust the position of the logo */
-	top: 25px;
-	left: 47px;
+	top: 42px;
+/*	left: 120px;*/
+	text-align: center;
 }
 
 #header p#slogan {
@@ -310,7 +329,7 @@ input.button {
 }
 
 #header #header-links a:hover {
-	color: #D4E59F;
+	color: #b0b0b0;
 }
 
 /* @end */
@@ -351,11 +370,11 @@ input.button {
 }
 
 #menu ul li a:hover {
-	color: #D4E59F;
+	color: #999999;
 }
 
 #menu ul li#current a {
-	color: #D4E59F;
+	color: #999999;
 }
 
 /* @end */
@@ -387,7 +406,7 @@ input.button {
 }
 
 #main ul li {
-	list-style-image: url(bullet.gif);
+	/*list-style-type: none;*/
 }
 
 .post-footer {
@@ -480,7 +499,7 @@ input.button {
 /* @group Footer */
 
 #footer {
-	color: #C6DDEE;
+	color: #fff;
 	background: #CCC url(footer.png) no-repeat center top;
 	clear: both;
 	width: 820px;

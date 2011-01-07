@@ -6,7 +6,7 @@ layout: wikistyle
 About
 =====
 
-![M&D Headquarters](images/MD-offices.jpg "Headquarters")
+<img class="border" src="images/MD-offices.jpg" alt="M&amp;D Headquarters" />
 
 Marketing & Distribution (M&D) have been in business in Albania
 continuously since 1991.

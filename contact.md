@@ -6,7 +6,7 @@ layout: wikistyle
 Contact Us
 ==========
 
-Contract us either to market and distribute your products, or to purchase goods from our existing portfolio for your own distribution or onward sales.
+Contact us either to market and distribute your products, or to purchase goods from our existing portfolio for your own distribution or onward sales.
 
 As a producer, you can ship stock to us in bulk and leave the onwards fulfilment and distribution to us, comfortable in the knowledge that it will be handled efficiently and effectively.
 
@@ -17,7 +17,7 @@ contact our sales team by calling +35548202336 or by emailing
 [info@markdist.com](mailto:info@markdist.com)
 
 <center>
-<img src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" />
+<img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" />
 </center>
 
 
