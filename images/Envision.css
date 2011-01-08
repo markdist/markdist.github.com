@@ -7,7 +7,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	outline: 0
+	outline: 0;
 }
 
 body {
@@ -265,7 +265,6 @@ input.button {
 
 #header {
 	width: 820px;
-	/*position: relative;*/
 	height: 103px;
 	background: #CCC url(header.png) no-repeat center top;
 	padding: 0;
@@ -273,13 +272,15 @@ input.button {
 }
 
 #header img.logo-image{
-	position: absolute;
+	position: relative;
 	margin: 0;
 	padding: 0;
 	background: transparent;
-	top: 34px;
-/*	left: 34px;*/
-	left: 345px;
+	left: 34px;
+}
+
+#header a, a:visited, a:hover {
+	background: none;
 }
 
 #header h1.logo-text {
@@ -287,36 +288,12 @@ input.button {
 	margin: 0;
 	padding: 0;
 	font: bold 32px 'Gill Sans MT', 'Gill Sans', 'Trebuchet MS', Arial, Sans-serif;
-	/* letter-spacing: -2px;*/
 	color: #FFF;
 	text-transform: none;
 	text-decoration: none;
 	background: transparent;
-	/* change the values of top and left to adjust the position of the logo */
 	top: 42px;
-/*	left: 120px;*/
 	text-align: center;
-}
-
-/* @end */
-
-/* @group Header Links */
-
-#header #header-links {
-	position: absolute;
-	top: 20px;
-	right: 30px;
-	color: #C6DDEE;
-	font-size: 10px;
-}
-
-#header #header-links a {
-	color: #FFF;
-	text-decoration: none;
-}
-
-#header #header-links a:hover {
-	color: #999999;
 }
 
 /* @end */
