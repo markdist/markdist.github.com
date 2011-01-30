@@ -15,10 +15,6 @@ Our customer base exceeds 4200 customers and we deal with more than 450 invoices
 
 <center><img class="border" src="images/map.jpg" alt="Distribution Coverage" height="60%" /></center>
 
-We invest 60% of our yearly profit back into our business, to enable us to continuously expand by building new distribution centres, increasing the capacity of the existing warehouses, as well as refreshing & expanding our vehicle fleet.
-
-M&D overheads account for only 1.6% of our turnover, as a result of careful and well planned sharing of the supporting structures and people throughout our principals.	Through increased product rotation, reduced overheads and better stock management we have been able to continuously improve our net profits.
-
 
 Vision and Goals
 ----------------
