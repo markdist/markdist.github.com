@@ -9,7 +9,7 @@ h2. Health, Beauty and Home
 
 !images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! !images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Fairy_Logo.jpg(Fairy)!
 !images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholl's_Logo.png(Dr Scholl's)!
-* P&G 
+* Procter & Gamble 
 ** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Pampers, Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, Wellaton, Londa, AZ, Alldays, Always, Gillette, Braun, Oral-B, Old Spice
 * Durex
 * Dr Scholl's

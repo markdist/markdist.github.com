@@ -1,10 +1,10 @@
 ---
-title: About
+title: Services
 layout: wikistyle
 ---
 
-Services
-=====
+Our Services
+============
 
 M&D currently has 278 employees of which 135 are directly involved in the sales
 process (on the field). Our brand management system is key to our success in
@@ -17,9 +17,9 @@ Marketing
 ---------
 Our marketing team includes:
 
-* 4 marketing seniors who create and coordinate the marketing plans and activities
-* 2 marketing executive who execute the projects
-* an experienced promo team (around 45 people) equipped with training staff, supervisors, promo team leaders and promo girls, all working as part of our permanent team
+* Marketing seniors who create and coordinate the marketing plans and activities
+* Marketing executives who execute the projects
+* An experienced promo team equipped with training staff, supervisors, promo team leaders and promo girls, all working as part of our permanent team
 
 We have an in-house Promotion Agency that handles various tasks from in store promotions, to sponsoring events and sampling.
 
@@ -35,9 +35,10 @@ The main objectives of our sales team are:
 
 Our sales force includes:
 
-* Merchandisers and key account representatives covering top 120+ customers, who are constantly in touch with them, organise shelves and advise on orders
+* Merchandisers covering our top 120+ customers, who are constantly in touch with them, organise shelves and give advise on orders
+* Key Account Managers responsible for orders and handle relationships with our top customers
+* Pre-Sale Representatives who take orders from larger customers and have access to all assortments of products
 * Van Sale Representatives who have stock availability in the van and take and deliver the order to smaller customers
-* Pre-Sale Representatives who take orders from larger customers and have access to all assortments
 * Delivery staff who handle orders that come via PSRs or placed in person, via phone or email
 
 Logistics
@@ -47,10 +48,10 @@ department who handle yearly volumes of over 35.000 pallets.
 
 The Supply Chain Management team is in place to better manage stock by:
 
-* Frequent stock rotation of 10.6 times per year
+* Frequent stock rotation of over 10 times per year
 * Reducing stock levels to a calculated optimum
 * Avoiding out of stock situations in spite of the large number of SKUs and suppliers
-* Keeping stock levels at 1.5 times the sales volume in the lead time
+* Keeping stock levels at 150% of the sales volume in the lead time
 
 They also handle custom clearance, and excise processing for excise goods.
 
@@ -62,9 +63,9 @@ Our expanding fleet is what allows us to guarantee prompt delivery of goods to a
 * 8 Heavy Trucks for Delivery (GVW of 10+ tons)
 * 9 Light Delivery Vans
 * 70 Light Vans used by our Van Sale Representatives
-* 46 cars used by our Supervisors, Key Accounts Representatives, Business Unit Managers, Marketing & Promotion, Merchandisers and Office Staff
+* 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing & Promotion, Merchandisers and Office Staff
 
-<div style="text-align: center;"><img class="border" src="images/vans.jpg" width="65%" alt="Fleet"/></div>
+<div style="text-align: center;"><img class="border" src="images/vans.jpg" width="60%" alt="Fleet"/></div>
 
 Others
 ------
