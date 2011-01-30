@@ -16,21 +16,17 @@ This distribution centre has been our operations hub and the headquarters of
 our organisation since July 2005 and has a total area of over 30,000m&sup2;. 
 The centre provides: 
 
-<ul>
-<li>1,500m&sup2; of office space</li>
-<li>Covered storage area of 7,000 m&sup2;, capable to store 6.500 pallets</li>
-<li>Picking area for 2.500 SKU</li>
-<li>Deep freezing and refrigerating capacity of 250 pallets</li>
-<li>18 docking bays, used for both loading and unloading depending on flux </li>
-<li>118 parking spaces to accommodate our expanding fleet needs</li>
-</ul>
+* 1,500m&sup2; of office space
+* Covered storage area of 7,000 m&sup2;, capable to store 6.500 pallets
+* Picking area for 2.500 SKU
+* Deep freezing and refrigerating capacity of 250 pallets
+* 18 docking bays, used for both loading and unloading depending on flux 
+* 118 parking spaces to accommodate our expanding fleet needs
 
 We also provide:
-<ul>
-<li>Cross-docking in Fier and Korca</li>
-<li>Sub-distributors in Saranda, Kukes, Peshkopi, Burrel, Lezhe, Korca, Fier, Tropoje, Himare &amp; Durres</li>
-<li>A brand new distribution centre in Kosovo</li>
-</ul>
+* Cross-docking in Fier and Korca
+* Sub-distributors in Saranda, Kukes, Peshkopi, Burrel, Lezhe, Korca, Fier, Tropoje, Himare &amp; Durres
+* A brand new distribution centre in Kosovo
 
 
 <p>
