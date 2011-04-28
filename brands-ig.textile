@@ -1,0 +1,28 @@
+---
+title: Brands
+layout: wikistyle
+---
+
+h1. Brands
+
+h2. Health, Beauty and Home
+
+!images/brands/BIC_Logo.jpg(BIC)! !images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)! 
+* Bic
+** Bic, Soleil, Astor, Lighters
+* Swirl 
+* Topitts
+* SC Johnson
+** Pronto, Oust, Glade, Duck, Mr Muscle (Muscolo), Autan, Baygon, Raid, Shout
+
+h2. Alcohol & Tobacco
+
+* Anheuser–Busch
+** Becks, Stella Artois
+
+h2. Food & Drink
+
+* Dr Oetker
+* August Storck KG
+** Knoppers, Merci, Toffifee, Riesen, Nimm2, Mamba, Wethers Original, Ice Fresh
+* Melitta

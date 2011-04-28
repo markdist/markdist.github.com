@@ -7,36 +7,30 @@ h1. Brands
 
 h2. Health, Beauty and Home
 
-!images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! !images/brands/Melitta_Swirl_Logo.png(Melitta Swirl)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Fairy_Logo.jpg(Fairy)!
+!images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Fairy_Logo.jpg(Fairy)!
 !images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholl's_Logo.png(Dr Scholl's)!
 * Procter & Gamble 
-** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Pampers, Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, Wellaton, Londa, AZ, Alldays, Always, Gillette, Braun, Oral-B, Old Spice
+** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Pampers, Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, AZ, Alldays, Always, Gillette, Braun, Oral-B, Old Spice, Ambi Pur
 * Durex
 * Dr Scholl's
-* Swirl 
-* Topitts
-* SC Johnson
-** Pronto, Oust, Glade, Duck, Mr Muscle (Muscolo), Autan, Baygon, Raid, Shout
 
 h2. Alcohol & Tobacco
 
 !images/brands/Davidoff_Logo.jpg(Davidoff)! !images/brands/Bacardi_Logo.jpg(Bacardi)! !images/brands/Martini_Logo.jpg(Martini)!
 
 * Imperial Tobacco
-** Davidoff, West, Gauloises, Maxim Slims, Drum, Rizla
+** Davidoff, West, Gauloises, Maxim Slims, Imperial Classic
 * Bacardi-Martini
 ** Bacardi, Martini, Bombay Sapphire, Eristoff, Grey Goose, Dewar's
-* Brown-Forman
-** Jack Daniels, Finlandia, Jagermeister, Southern Comfort
-* Berry Bros. & Rudd
-** Cutty Sark
-* Bamberger Kaiserdom
-* Tequila Sierra
+* Hancocks
+** Jack Daniels, Finlandia, Jagermeister, Southern Comfort, Chambord, Pepe Lopez Tequila
+* W.S. Karoulias
+** Cutty Sark, Tullamore Dew, Finsbury Gin, Sierra Tequila, Ouzo Plomari, Carolans, Cellini, Monin
+* Godet
 * Alexander-Bottega
 * Boutari
-* Godet
-* Anheuser–Busch
-** Becks, Stella Artois
+* StoneCastle
+* Bamberger Kaiserdom
 
 h2. Food & Drink
 
@@ -45,17 +39,16 @@ h2. Food & Drink
 ** Pringles
 * Lactalis Group
 ** President, Galbani, Societe, Dukat
+* Alpha
 * Perfetti Van Melle
 ** Mentos, Chupa Chups, Alpenliebe, Golia
-* Granini
+* Eckes-Granini Group
+** Granini, Sio, Yo
 * Bora Water
-* Schwartau
-* Dr Oetker
+* Schwartau & Corny 
 * Ritter Sport
-* August Storck KG
-** Nimm2, Merci, Toffifee, Wethers Original, Riesen, Mamba
 * Danesi Cafe
-* Milford
+* Orphea
 * Messmer
 
 h2. Mobile Phone
@@ -74,4 +67,5 @@ h2. Office & Stationary
 * Fabriano
 * Grafotisac
 * Sony
-
+* Toners
+** HP, Tessen, Epson, Toshiba, Xerox, Samsung, Panasonic, Oki, Dell, Lexmark, Canon 
