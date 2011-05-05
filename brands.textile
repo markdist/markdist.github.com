@@ -10,45 +10,68 @@ h2. Health, Beauty and Home
 !images/brands/Procter_and_Gamble_Logo.png(Procter & Gamble)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Fairy_Logo.jpg(Fairy)!
 !images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholl's_Logo.png(Dr Scholl's)!
 * Procter & Gamble 
-** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Pampers, Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, AZ, Alldays, Always, Gillette, Braun, Oral-B, Old Spice, Ambi Pur
+** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Ambi Pur
+** Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, AZ, Old Spice
+** Pampers, Alldays, Always
+** Gillette, Braun, Oral-B
 * Durex
 * Dr Scholl's
 
-h2. Alcohol & Tobacco
+h2. Tobacco
 
-!images/brands/Davidoff_Logo.jpg(Davidoff)! !images/brands/Bacardi_Logo.jpg(Bacardi)! !images/brands/Martini_Logo.jpg(Martini)!
-
+!images/brands/Davidoff_Logo.jpg(Davidoff)! 
 * Imperial Tobacco
-** Davidoff, West, Gauloises, Maxim Slims, Imperial Classic
+** Davidoff, West, Gauloises, Maxim Slims, Classic
+
+h2. Spirits
+
+!images/brands/Bacardi_Logo.jpg(Bacardi)! !images/brands/Martini_Logo.jpg(Martini)!
 * Bacardi-Martini
-** Bacardi, Martini, Bombay Sapphire, Eristoff, Grey Goose, Dewar's
-* Hancocks
-** Jack Daniels, Finlandia, Jagermeister, Southern Comfort, Chambord, Pepe Lopez Tequila
-* W.S. Karoulias
-** Cutty Sark, Tullamore Dew, Finsbury Gin, Sierra Tequila, Ouzo Plomari, Carolans, Cellini, Monin
-* Godet
-* Alexander-Bottega
-* Boutari
-* StoneCastle
-* Bamberger Kaiserdom
+** Bacardi Rum, Martini Vermouth, Bombay Sapphire Gin, Eristoff Vodka, Grey Goose Vodka, Dewar's Whisky
+* Brown-Forman
+** Jack Daniels Whiskey, Woodford Reserve Whiskey, Finlandia Vodka, Southern Comfort Liquer, Chambord Liquer, Pepe Lopez Tequilla 
+==<!-- * Borco ** Finsbury Gin, Sierra Tequila * Cutty Sark Whiskey * Plomari Ouzo-->==
+* Karulias
+** Finsbury Gin, Sierra Tequila, Cutty Sark Whiskey, Plomari Ouzo
+==<!-- * William Grant & Sons Ltd ** Tullamore Dew Whiskey, Grant’s Whiskey, Glenfiddich Whiskey -->==
+* Tullamore Dew Whiskey
+* Jagermeister Liquer
+* Cellini Liquer
+* Amaro Lucano Liquer
+* Godet Cognac
 
-h2. Food & Drink
+h2. Beer & Wine
 
-!images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)!
-* P&G
-** Pringles
+* Godet Wines
+* Alexander-Bottega Wines
+* Cantine Del Colle Wines
+* Boutari Wines
+* Kaiserdom Beer
+* Veltins Beer
+
+h2. Food
+
+!images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! 
+* Pringles
 * Lactalis Group
-** President, Galbani, Societe, Dukat
-* Alpha
+** President, Galbani, Societe
 * Perfetti Van Melle
-** Mentos, Chupa Chups, Alpenliebe, Golia
+** Mentos, Chupa Chups, Alpenliebe, Golia, Big Babol
+* Schwartauer Werke
+** Schwartau, Corny 
+* Ritter Sport
+* Alfa Pastry Creations
+
+h2. Drinks
+
+!images/brands/Dukat_Logo.png(Dukat)!
 * Eckes-Granini Group
 ** Granini, Sio, Yo
+* Monin Syrups
+* Dukat
 * Bora Water
-* Schwartau & Corny 
-* Ritter Sport
 * Danesi Cafe
-* Orphea
+* Maromas
 * Messmer
 
 h2. Mobile Phone
@@ -65,7 +88,7 @@ h2. Office & Stationary
 * Bic
 * Duracell
 * Fabriano
-* Grafotisac
+* Grafotisak
 * Sony
 * Toners
-** HP, Tessen, Epson, Toshiba, Xerox, Samsung, Panasonic, Oki, Dell, Lexmark, Canon 
+** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon 
