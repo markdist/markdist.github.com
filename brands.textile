@@ -7,36 +7,18 @@ h1. Brands
 
 h2. Health, Beauty and Home
 
-!images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! 
-!images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.gif(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! 
-!images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! 
-!images/brands/AZ_Logo.png(AZ)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/Old_Spice_Logo.jpg(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  
-!images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  !images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholls_Logo.jpg(Dr Scholl's)!
+!images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholls_Logo.jpg(Dr Scholl's)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.gif(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/AZ_Logo.png(AZ)! !images/brands/Old_Spice_Logo.jpg(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  
 
-==<!-- * Procter & Gamble ** Ariel, Dash, Bonux, Tide, Ace, Lenor, Mastro Lindo, Fairy, Ambi Pur ** Head & Shoulders, Pantene, Wash & Go, Herbel Essences, Camay, AZ, Old Spice ** Pampers, Alldays, Always ** Gillette, Braun, Oral-B * Durex * Dr Scholl's -->==
 
 h2. Tobacco
 
-!images/brands/Davidoff_Logo.jpg(Davidoff)! 
-* Imperial Tobacco
-** Davidoff, West, Gauloises, Maxim Slims, Classic
+!images/brands/Davidoff_Logo.gif(Davidoff)! !images/brands/West_Logo.gif(West)! !images/brands/Gauloises_Logo.jpg(Gauloises)! !images/brands/Maxim_Slims_Logo.gif(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
+
 
 h2. Spirits
 
-!images/brands/Bacardi_Logo.jpg(Bacardi)! !images/brands/Martini_Logo.jpg(Martini)!
-* Bacardi-Martini
-** Bacardi Rum, Martini Vermouth, Bombay Sapphire Gin, Eristoff Vodka, Grey Goose Vodka, Dewar's Whisky
-* Brown-Forman
-** Jack Daniels Whiskey, Woodford Reserve Whiskey, Finlandia Vodka, Southern Comfort Liquer, Chambord Liquer, Pepe Lopez Tequilla 
-==<!-- * Borco ** Finsbury Gin, Sierra Tequila * Cutty Sark Whiskey * Plomari Ouzo -->==
-* Karulias
-** Finsbury Gin, Sierra Tequila, Cutty Sark Whiskey, Plomari Ouzo
-==<!-- * William Grant & Sons Ltd ** Tullamore Dew Whiskey, Grant’s Whiskey, Glenfiddich Whiskey -->==
-* Tullamore Dew Whiskey
-* Jagermeister Liquer
-* Cellini Liquer
-* Amaro Lucano Liquer
-* Godet Cognac
+!images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/GreyGoose_Logo.jpg(Grey Goose Vodka)! !images/brands/Dewars_Logo.jpg(Dewar's Whisky)! !images/brands/JackDaniels_Logo.jpg(Jack Daniels Whiskey)! !images/brands/WoodfordReserve_Logo.jpg(Woodford Reserve Whiskey)! !images/brands/Finlandia_Logo.jpg(Finlandia Vodka)! !images/brands/Southern_Comfort_Logo.jpg(Southern Comfort Liquer)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)! !images/brands/Sierra_Logo.jpg(Sierra Tequila)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/TullamoreDew_Logo.jpg(Tullamore Dew Whiskey)!  !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/AmaroLucano_Logo.jpg(Amaro Lucano Liquer)! !images/brands/Godet_Logo.jpg(Godet Cognac)! 
+
 
 h2. Beer & Wine
 
