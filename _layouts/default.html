@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ page.lang }}" lang="{{ page.lang }}">
   <head>
     <meta name="Description" content="Marketing &amp; Distribution, Albania" />
     <meta name="Keywords" content="Marketing, Distribution, Albania, Tirana" />
@@ -11,28 +11,41 @@
     <link href="images/Envision.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="favicon.ico" rel="shortcut icon" />
     <link href="favicon.png" rel="apple-touch-icon">
-    
-	<!--
-	<style type="text/css">
-		img, div { behavior: url(images/iepngfix.htc) }
-	</style>
-	-->
+
+    <!--
+    <style type="text/css">
+        img, div { behavior: url(images/iepngfix.htc) }
+    </style>
+    -->
   </head>
   <body>
     <div id="wrap">
       <div id="header">
         <h1 class="logo-text">Marketing &amp; Distribution - Albania</h1>
-        <a href="/"><img class="logo-image" src="images/MD-logo-small.png" alt="M&amp;D Logo" /></a>        
+        <a href="/"><img class="logo-image" src="images/MD-logo-small.png" alt="M&amp;D Logo" /></a>
       </div>
       <div id="menu">
         <ul>
+          {% if page.lang == "sq" %}
+          <li><a href="/index_sq.html">Ballina</a></li>
+          <li><a href="/about_sq.html">Për Ne</a></li>
+          <li><a href="/services_sq.html">Shërbimeve</a></li>
+          <li><a href="/brands_sq.html">Markave</a></li>
+          <li><a href="/location_sq.html">Location</a></li>
+          <li><a href="/contact_sq.html">Kontaktoni</a></li>
+          {% else %}
           <li><a href="/">Home</a></li>
           <li><a href="/about.html">About</a></li>
           <li><a href="/services.html">Services</a></li>
           <li><a href="/brands.html">Brands</a></li>
           <li><a href="/location.html">Location</a></li>
           <li><a href="/contact.html">Contact Us</a></li>
+          {% endif %}
         </ul>
+      </div>
+      <div style="float:right;padding-top: 2px; padding-right: 28px;">
+		  <a href="/index_sq.html"><img class="logo-image" src="images/al.png" title="Switch to Albanian Language" alt="Albanian Flag" /></a>
+          <a href="/index.html"><img class="logo-image" src="images/gb.png" title="Switch to English Language" alt="United Kingdom Flag" /></a>
       </div>
 
       <div id="content-wrap">
@@ -43,8 +56,14 @@
 
       <div id="footer">
         <p>
+		{% if page.lang == "sq" %}
+        <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. Të gjitha të drejtat e rezervuara.</div>
+		{% else %}
         <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</div>
+		{% endif %}
       </div>
     </div>
   </body>
 </html>
+
+ <!-- vim: set et sw=2 -->

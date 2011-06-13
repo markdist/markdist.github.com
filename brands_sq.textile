@@ -1,0 +1,74 @@
+---
+title: Brands
+layout: wikistyle
+lang: sq
+---
+
+h1. Brands
+
+h2. Health, Beauty and Home
+
+!images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholls_Logo.jpg(Dr Scholl's)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.gif(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/AZ_Logo.png(AZ)! !images/brands/Old_Spice_Logo.jpg(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  
+
+
+h2. Tobacco
+
+!images/brands/Davidoff_Logo.gif(Davidoff)! !images/brands/West_Logo.gif(West)! !images/brands/Gauloises_Logo.jpg(Gauloises)! !images/brands/Maxim_Slims_Logo.gif(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
+
+
+h2. Spirits
+
+!images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/GreyGoose_Logo.jpg(Grey Goose Vodka)! !images/brands/Dewars_Logo.jpg(Dewar's Whisky)! !images/brands/JackDaniels_Logo.jpg(Jack Daniels Whiskey)! !images/brands/WoodfordReserve_Logo.jpg(Woodford Reserve Whiskey)! !images/brands/Finlandia_Logo.jpg(Finlandia Vodka)! !images/brands/Southern_Comfort_Logo.jpg(Southern Comfort Liquer)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)! !images/brands/Sierra_Logo.jpg(Sierra Tequila)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/TullamoreDew_Logo.jpg(Tullamore Dew Whiskey)!  !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/AmaroLucano_Logo.jpg(Amaro Lucano Liquer)! !images/brands/Godet_Logo.jpg(Godet Cognac)! 
+
+
+h2. Beer & Wine
+
+* Godet Wines
+* Alexander-Bottega Wines
+* Cantine Del Colle Wines
+* Boutari Wines
+* Kaiserdom Beer
+* Veltins Beer
+
+h2. Food
+
+!images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! 
+* Pringles
+* Lactalis Group
+** President, Galbani, Societe
+* Perfetti Van Melle
+** Mentos, Chupa Chups, Alpenliebe, Golia, Big Babol
+* Schwartauer Werke
+** Schwartau, Corny 
+* Ritter Sport
+* Alfa Pastry Creations
+
+h2. Drinks
+
+!images/brands/Dukat_Logo.png(Dukat)!
+* Eckes-Granini Group
+** Granini, Sio, Yo
+* Monin Syrups
+* Dukat
+* Bora Water
+* Danesi Cafe
+* Maromas
+
+h2. Mobile Phone
+
+!images/brands/Vodafone_Logo.jpg(Vodafone)!
+
+* Vodafone
+
+h2. Office & Stationary
+
+!images/brands/3M_Logo.jpg(3M)! !images/brands/BIC_Logo.jpg(BIC)! !images/brands/Sony_Logo.jpg(Sony)!
+
+* 3M
+* Bic
+* Duracell
+* Fabriano
+* Grafotisak
+* Sony
+* Toners
+** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon 
