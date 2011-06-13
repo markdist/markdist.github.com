@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Shërbimet
 layout: wikistyle
 lang: sq
 ---

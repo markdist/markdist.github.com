@@ -1,5 +1,5 @@
 ---
-title: Brands
+title: Markate
 layout: wikistyle
 lang: sq
 ---

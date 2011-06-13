@@ -1,5 +1,5 @@
 ---
-title: Ballina
+title: Faqja Kryesore
 layout: wikistyle
 lang: sq
 ---

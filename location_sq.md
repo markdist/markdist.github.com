@@ -1,11 +1,11 @@
 ---
-title: Location
+title: Vendndodhja
 layout: wikistyle
 lang: sq
 ---
 
-Location
-========
+Vendndodhja
+===========
 
 Our integrated warehouse and offices are jointly-located on the same
 grounds beside the Tirana–Durres Highway with all major cities
