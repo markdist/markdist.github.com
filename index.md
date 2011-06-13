@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: wikistyle
+lang: en
 ---
 
 Marketing & Distribution Albania

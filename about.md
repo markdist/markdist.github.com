@@ -1,6 +1,7 @@
 ---
 title: About
 layout: wikistyle
+lang: en
 ---
 
 About Us

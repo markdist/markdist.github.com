@@ -1,6 +1,7 @@
 ---
 title: Brands
 layout: wikistyle
+lang: en
 ---
 
 h1. Brands

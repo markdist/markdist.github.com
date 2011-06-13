@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: wikistyle
+lang: en
 ---
 
 Contact Us

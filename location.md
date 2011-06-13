@@ -1,6 +1,7 @@
 ---
 title: Location
 layout: wikistyle
+lang: en
 ---
 
 Location

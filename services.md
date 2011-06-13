@@ -1,6 +1,7 @@
 ---
 title: Services
 layout: wikistyle
+lang: en
 ---
 
 Our Services
