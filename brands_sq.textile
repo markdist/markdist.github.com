@@ -13,7 +13,7 @@ h2. Health, Beauty and Home
 
 h2. Tobacco
 
-!images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.gif(West)! !images/brands/Gauloises_Logo.jpg(Gauloises)! !images/brands/Maxim_Slims_Logo.gif(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
+!images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.gif(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.gif(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
 
 
 h2. Spirits
