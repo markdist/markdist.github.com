@@ -8,7 +8,7 @@ h1. Brands
 
 h2. Health, Beauty and Home
 
-!images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholls_Logo.jpg(Dr Scholl's)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.gif(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/AZ_Logo.png(AZ)! !images/brands/Old_Spice_Logo.jpg(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  
+!images/brands/Durex_Logo.png(Durex)! !images/brands/DrScholls_Logo.jpg(Dr Scholl's)! !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/AZ_Logo.png(AZ)! !images/brands/Old_Spice_Logo.jpg(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  
 
 
 h2. Tobacco
@@ -23,24 +23,18 @@ h2. Spirits
 
 h2. Beer & Wine
 
+!images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Veltins_Logo.png(Veltins Beer)!
+
 * Godet Wines
 * Alexander-Bottega Wines
 * Cantine Del Colle Wines
 * Boutari Wines
-* Kaiserdom Beer
-* Veltins Beer
 
 h2. Food
 
-!images/brands/President_Logo.jpg(President)! !images/brands/Galbani_Logo.png(Galbani)! 
-* Pringles
-* Lactalis Group
-** President, Galbani, Societe
-* Perfetti Van Melle
-** Mentos, Chupa Chups, Alpenliebe, Golia, Big Babol
-* Schwartauer Werke
-** Schwartau, Corny 
-* Ritter Sport
+!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Societe_Logo.png(Societe)!  !images/brands/Pringles_Logo.png(Pringles)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)!  !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)!  
+!images/brands/Schwartauer_Werke_Logo.png(Schwartauer)! !images/brands/Corny_Logo.png(Corny)!
+
 * Alfa Pastry Creations
 
 h2. Drinks
