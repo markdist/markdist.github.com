@@ -13,13 +13,12 @@ h2. Health, Beauty and Home
 
 h2. Tobacco
 
-!images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.png(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.gif(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
+!images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.png(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.png(Maxim Slims)! !images/brands/Classic_Logo.jpg(Classic)!
 
 
 h2. Spirits
 
-!images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/GreyGoose_Logo.jpg(Grey Goose Vodka)! !images/brands/Dewars_Logo.jpg(Dewar's Whisky)! !images/brands/JackDaniels_Logo.jpg(Jack Daniels Whiskey)! !images/brands/WoodfordReserve_Logo.jpg(Woodford Reserve Whiskey)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Southern_Comfort_Logo.jpg(Southern Comfort Liquer)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)! !images/brands/Sierra_Logo.jpg(Sierra Tequila)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/TullamoreDew_Logo.jpg(Tullamore Dew Whiskey)!  !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/AmaroLucano_Logo.jpg(Amaro Lucano Liquer)! !images/brands/Godet_Logo.jpg(Godet Cognac)! 
-
+!images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/GreyGoose_Logo.jpg(Grey Goose Vodka)! !images/brands/Dewars_Logo.jpg(Dewar's Whisky)! !images/brands/JackDaniels_Logo.jpg(Jack Daniels Whiskey)! !images/brands/WoodfordReserve_Logo.jpg(Woodford Reserve Whiskey)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Southern_Comfort_Logo.jpg(Southern Comfort Liquer)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)! !images/brands/Sierra_Logo.jpg(Sierra Tequila)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)!  !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/AmaroLucano_Logo.jpg(Amaro Lucano Liquer)! !images/brands/Godet_Logo.jpg(Godet Cognac)! 
 
 h2. Beer & Wine
 
@@ -49,19 +48,13 @@ h2. Drinks
 
 h2. Mobile Phone
 
-!images/brands/Vodafone_Logo.jpg(Vodafone)!
+!images/brands/Vodafone_Logo.png(Vodafone)!
 
 * Vodafone
 
 h2. Office & Stationary
 
-!images/brands/3M_Logo.jpg(3M)! !images/brands/BIC_Logo.jpg(BIC)! !images/brands/Sony_Logo.jpg(Sony)!
+!images/brands/BIC_Logo.png(BIC)! !images/brands/3M_Logo.png(3M)! !images/brands/Sony_Logo.png(Sony)! !images/brands/Duracell_Logo.png(Duracell)!  !images/brands/Grafotisak_Logo.png(Grafotisak)!  !images/brands/Fabriano_Logo.png(Fabriano)!
 
-* 3M
-* Bic
-* Duracell
-* Fabriano
-* Grafotisak
-* Sony
 * Toners
 ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon 
