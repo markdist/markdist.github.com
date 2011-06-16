@@ -1,5 +1,5 @@
 ---
-title: Markate
+title: Markat
 layout: wikistyle
 lang: sq
 ---
