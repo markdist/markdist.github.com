@@ -23,13 +23,7 @@ h2. Spirits
 
 h2. Beer & Wine
 
-!images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Veltins_Logo.png(Veltins Beer)!
-
-* Godet Wines
-* Alexander-Bottega Wines
-* Cantine Del Colle Wines
-* Boutari Wines
-
+!images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Veltins_Logo.png(Veltins Beer)!  !images/brands/Bottega_Logo.png(Alexander-Bottega Wines)!  !images/brands/CantineDelColle_Logo.jpg(Cantine Del Colle Wines)!  !images/brands/Boutari_Logo.jpg(Boutari Wines)!
 
 h2. Food
 
@@ -38,11 +32,7 @@ h2. Food
 
 h2. Drinks
 
-!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)!  !images/brands/Danesi_Logo.png(Danesi Caffe)!  !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!
-
-* Monin Syrups
-* Bora Water
-* Maromas
+!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)!  !images/brands/Danesi_Logo.png(Danesi Caffe)!  !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!  !images/brands/Bora_Logo.jpg(Bora Water)!  !images/brands/Monin_Logo.png(Monin Syrups)!  !images/brands/Maromas_Logo.png(Maromas)!
 
 h2. Mobile Phone
 
@@ -52,5 +42,4 @@ h2. Office & Stationary
 
 !images/brands/BIC_Logo.png(BIC)! !images/brands/3M_Logo.png(3M)! !images/brands/Sony_Logo.png(Sony)! !images/brands/Duracell_Logo.png(Duracell)!  !images/brands/Grafotisak_Logo.png(Grafotisak)!  !images/brands/Fabriano_Logo.png(Fabriano)!
 
-* Toners
-** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon 
+==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
