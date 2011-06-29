@@ -8,7 +8,7 @@ h1. Brands
 
 h2. Health, Beauty and Home
 
-!images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/AZ_Logo.png(AZ)! !images/brands/OldSpice_Logo.png(Old Spice)! !images/brands/Camay_Logo.jpg(Camay)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/Braun_Logo.png(Braun)! !images/brands/Gillette_Logo.png(Gillette)!  
+!images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.jpg(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.jpg(Lenor)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Camay_Logo.png(Camay)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/AZ_Logo.png(AZ)! !images/brands/OldSpice_Logo.png(Old Spice)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! 
 
 
 h2. Tobacco
@@ -22,7 +22,7 @@ h2. Spirits
 
 h2. Beer & Wine
 
-!images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Veltins_Logo.png(Veltins Beer)!  !images/brands/Bottega_Logo.png(Alexander-Bottega Wines)!  !images/brands/CantineDelColle_Logo.jpg(Cantine Del Colle Wines)!  !images/brands/Boutari_Logo.jpg(Boutari Wines)!
+!images/brands/Veltins_Logo.png(Veltins Beer)!  !images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Bottega_Logo.png(Alexander-Bottega Wines)!  !images/brands/CantineDelColle_Logo.jpg(Cantine Del Colle Wines)!  !images/brands/Boutari_Logo.jpg(Boutari Wines)!
 
 h2. Food
 
@@ -33,14 +33,13 @@ h2. Drinks
 
 !images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)!  !images/brands/Danesi_Logo.png(Danesi Caffe)!  !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!  !images/brands/Bora_Logo.jpg(Bora Water)!  !images/brands/Monin_Logo.png(Monin Syrups)!  !images/brands/Maromas_Logo.png(Maromas)!
 
+h2. Office & Stationary
+
+!images/brands/BIC_Logo.png(BIC)! !images/brands/3M_Logo.png(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)!   !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
+
+==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
+
 h2. Mobile Phone
 
 !images/brands/Vodafone_Logo.png(Vodafone)!
 
-* Vodafone
-
-h2. Office & Stationary
-
-!images/brands/BIC_Logo.png(BIC)! !images/brands/3M_Logo.png(3M)! !images/brands/Sony_Logo.png(Sony)! !images/brands/Duracell_Logo.png(Duracell)!  !images/brands/Grafotisak_Logo.png(Grafotisak)!  !images/brands/Fabriano_Logo.png(Fabriano)!
-
-==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
