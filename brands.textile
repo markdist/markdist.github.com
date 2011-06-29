@@ -18,7 +18,7 @@ h2. Tobacco
 
 h2. Spirits
 
-!images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Dewars_Logo.png(Dewar's Whisky)! !images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Southern_Comfort_Logo.png(Southern Comfort Liquer)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)! !images/brands/Sierra_Logo.png(Sierra Tequila)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)!  !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/AmaroLucano_Logo.png(Amaro Lucano Liquer)! !images/brands/Godet_Logo.jpg(Godet Cognac)! 
+!images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)!  !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Dewars_Logo.png(Dewar's Whisky)!  !images/brands/Godet_Logo.jpg(Godet Cognac)! !images/brands/Southern_Comfort_Logo.png(Southern Comfort Liquer)!  !images/brands/AmaroLucano_Logo.png(Amaro Lucano Liquer)!  !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)! !images/brands/Sierra_Logo.png(Sierra Tequila)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)!  !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/Monin_Logo.png(Monin Syrups)!
 
 h2. Beer & Wine
 
@@ -26,16 +26,15 @@ h2. Beer & Wine
 
 h2. Food
 
-!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Societe_Logo.png(Societe)!  !images/brands/Pringles_Logo.png(Pringles)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)!  !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)!  
-!images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Alfa_Logo.png(Alfa Pastry Creations)!
+!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Societe_Logo.png(Societe)!  !images/brands/Pringles_Logo.png(Pringles)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)!  !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)! !images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Alfa_Logo.png(Alfa Pastry Creations)!
 
 h2. Drinks
 
-!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)!  !images/brands/Danesi_Logo.png(Danesi Caffe)!  !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!  !images/brands/Bora_Logo.jpg(Bora Water)!  !images/brands/Monin_Logo.png(Monin Syrups)!  !images/brands/Maromas_Logo.png(Maromas)!
+!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)! !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!   !images/brands/Danesi_Logo.png(Danesi Caffe)!   !images/brands/Maromas_Logo.png(Maromas)! !images/brands/Bora_Logo.jpg(Bora Water)! 
 
 h2. Office & Stationary
 
-!images/brands/BIC_Logo.png(BIC)! !images/brands/3M_Logo.png(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)!   !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
+!images/brands/3M_Logo.png(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.png(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
 
 ==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
 

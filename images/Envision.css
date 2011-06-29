@@ -45,7 +45,8 @@ h1 {
 	font-weight: bold;
 	text-transform: uppercase;
 	/*color: #006699;*/
-	color: #000;
+	/*color: #000;*/
+	color: #c21c1d;
 }
 
 h2 {
@@ -72,7 +73,7 @@ img.border {
 img {
 	background: #FFF;
 	border: 0;
-	padding: 2px;
+	padding: 8px;
 	max-width: 712px;
 }
 
@@ -354,11 +355,14 @@ input.button {
 }
 
 #main h2 {
-	margin-top: 10px;
+	margin-top: 30px;
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
-	color: #999999;
+	/*color: #999999;*/
+	color: #000;
 	/*padding: 5px 0 5px 25px;*/
-	border-bottom: 1px solid #EFF0F1;
+	/*border-bottom: 1px solid #EFF0F1;*/
+	/*border-top: 1px solid #c21c1d;*/
+	border-bottom: 1px solid #c21c1d;
 	text-transform: none;
 }
 
