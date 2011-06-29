@@ -27,8 +27,6 @@ The centre provides:
 We also provide:
 * Cross-docking in Fier and Korca
 * Sub-distributors in Saranda, Kukes, Peshkopi, Burrel, Lezhe, Korca, Fier, Tropoje, Himare &amp; Durres
-* A brand new distribution centre in Kosovo
-
 
 <p>
 <div align="center">
