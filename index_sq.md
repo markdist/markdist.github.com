@@ -9,10 +9,7 @@ Marketing & Distribution Albania
 
 <img class="border" src="images/MD-offices.jpg" alt="M&amp;D Headquarters" />
 
-Themeluar në vitin 1991, Marketing & Shpërndarjes (M & D) është një
-organizatë e orientuar drejt klientit të përfshirë në, shpërndarjen
-importin dhe tregtimin e një shumëllojshmëri të gjerë të produkteve,
-duke përfshirë:
+Established in 1991, Marketing & Distribution (M&D) is a customer oriented organisation involved in the import, distribution & marketing of a wide variety of products including:
 
 * Health, Home & Beauty
 * Food & Drinks
