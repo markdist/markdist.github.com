@@ -17,8 +17,3 @@ If you have questions or would like to get a quote from us, you may
 contact us by calling +35548202336 or by emailing
 [info@markdist.com](mailto:info@markdist.com)
 
-<center>
-<img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" />
-</center>
-
-

@@ -56,6 +56,8 @@ The Supply Chain Management team is in place to better manage stock by:
 
 They also handle custom clearance, and excise processing for excise goods.
 
+<div style="text-align: center;"><img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" /></div>
+
 Distribution
 ------------
 Our expanding fleet is what allows us to guarantee prompt delivery of goods to any part of Albania. It currently includes:
