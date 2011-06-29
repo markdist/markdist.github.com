@@ -14,7 +14,7 @@ Our company, has for several years been among the top 10 companies in Albania as
 
 Our customer base exceeds 4200 customers and we deal with more than 450 invoices every day, covering 100% of the Albanian territory and population as well as Kosovo. The customer base is divided into segments, based on both customer and commercial criteria, to allow us to put the consumer at the heart of what we do and at the same time maximise the rate of return on the investments made into outlets.
 
-<center><img class="border" src="images/map.jpg" alt="Distribution Coverage" height="60%" /></center>
+<center><img class="border" src="images/map_small.jpg" alt="Distribution Coverage" /></center>
 
 
 Vision and Goals
