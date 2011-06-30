@@ -70,10 +70,14 @@ img.border {
 	padding: 8px;
 }
 
+img.nopadding {
+	padding: 0px;
+}
+
 img {
 	background: #FFF;
 	border: 0;
-	padding: 8px;
+	padding: 2px;
 	max-width: 712px;
 }
 
@@ -350,12 +354,12 @@ input.button {
 	float: left;
 	width: 100%;
 	padding: 0;
-	margin: 5px 5px 0;
+	/*margin: 5px 5px 0;*/
 	display: inline;
 }
 
 #main h2 {
-	margin-top: 30px;
+	margin-top: 15px;
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
 	/*color: #999999;*/
 	color: #000;
@@ -364,6 +368,24 @@ input.button {
 	/*border-top: 1px solid #c21c1d;*/
 	border-bottom: 1px solid #c21c1d;
 	text-transform: none;
+}
+
+#main div.brands {
+	text-align: center;
+}
+
+#main div.brands h2 {
+	text-transform: uppercase;
+	margin-top: 30px;
+	border-top: 1px solid #c21c1d;
+	border-bottom: 1px solid #c21c1d;
+}
+
+#main div.brands img {
+	background: #FFF;
+	border: 0;
+	padding: 8px;
+	max-width: 712px;
 }
 
 #main h2 a {

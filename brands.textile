@@ -4,6 +4,8 @@ layout: wikistyle
 lang: en
 ---
 
+notextile. <div class="brands">
+
 h1. Brands
 
 h2. Health, Beauty and Home
@@ -42,3 +44,4 @@ h2. Mobile Phone
 
 !images/brands/Vodafone_Logo.png(Vodafone)!
 
+notextile. </div>

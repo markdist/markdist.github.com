@@ -4,8 +4,8 @@ layout: wikistyle
 lang: sq
 ---
 
-Our Services
-============
+Shërbimet
+=========
 
 M&D currently has 278 employees of which 135 are directly involved in the sales
 process (on the field). Our brand management system is key to our success in
@@ -68,7 +68,7 @@ Our expanding fleet is what allows us to guarantee prompt delivery of goods to a
 * 70 Light Vans used by our Van Sale Representatives
 * 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing & Promotion, Merchandisers and Office Staff
 
-<div style="text-align: center;"><img class="border" src="images/vans.jpg" width="60%" alt="Fleet"/></div>
+<div style="text-align: center;"><img class="border" src="images/vans_small.jpg" alt="Fleet"/></div>
 
 Others
 ------
