@@ -12,7 +12,7 @@
 
 body {
 	background: #CCC;
-	font: 70%/1.6em Verdana, Tahoma, arial, sans-serif;
+	font: 75%/1.6em Verdana, Tahoma, arial, sans-serif;
 	color: #555;
 	text-align: center;
 }
@@ -313,6 +313,12 @@ input.button {
 	font: bold 12px/37px Verdana, Arial, Tahoma, Sans-serif;
 	height: 37px;
 	width: 780px;
+}
+
+#menu img {
+	background-color: #c21c1d;
+	vertical-align: text-bottom;
+	padding: 4px 4px 0 0;
 }
 
 #menu ul {

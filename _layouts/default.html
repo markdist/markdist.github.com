@@ -33,6 +33,8 @@
           <li><a href="/brands_sq.html">Markat</a></li>
           <li><a href="/location_sq.html">Vendndodhja</a></li>
           <li><a href="/contact_sq.html">Na Kontaktoni</a></li>
+          <!--<li><a href="/index_sq.html">|</a></li>-->
+          <li><a href="http://80.78.70.247:3000/"><img class="nopadding" src="images/lock.png" alt="Secure" />Punonjës Hyrja</a></li>
           {% else %}
           <li><a href="/">Home</a></li>
           <li><a href="/about.html">About</a></li>
@@ -40,11 +42,13 @@
           <li><a href="/brands.html">Brands</a></li>
           <li><a href="/location.html">Location</a></li>
           <li><a href="/contact.html">Contact Us</a></li>
+          <!--<li><a href="/">|</a></li>-->
+          <li><a href="http://80.78.70.247:3000/"><img class="nopadding" src="images/lock.png" alt="Secure" />Staff Login</a></li>
           {% endif %}
         </ul>
       </div>
       <div style="float:right;padding-top: 2px; padding-right: 28px;">
-		  <a href="/index_sq.html"><img class="nopadding" src="images/al.png" title="Switch to Albanian Language" alt="Albanian Flag" /></a>
+          <a href="/index_sq.html"><img class="nopadding" src="images/al.png" title="Switch to Albanian Language" alt="Albanian Flag" /></a>
           <a href="/index.html"><img class="nopadding" src="images/gb.png" title="Switch to English Language" alt="United Kingdom Flag" /></a>
       </div>
 
@@ -56,11 +60,11 @@
 
       <div id="footer">
         <p>
-		{% if page.lang == "sq" %}
+        {% if page.lang == "sq" %}
         <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. Të gjitha të drejtat e rezervuara.</div>
-		{% else %}
+        {% else %}
         <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</div>
-		{% endif %}
+        {% endif %}
       </div>
     </div>
   </body>
