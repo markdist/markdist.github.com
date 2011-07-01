@@ -79,6 +79,7 @@ img {
 	border: 0;
 	padding: 2px;
 	max-width: 712px;
+	vertical-align: text-bottom;
 }
 
 img.float-right {

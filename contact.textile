@@ -1,11 +1,10 @@
 ---
-title: Na Kontaktoni
+title: Contact Us
 layout: wikistyle
-lang: sq
+lang: en
 ---
 
-Na Kontaktoni
-=============
+h1. Contact Us
 
 Contact us either to market and distribute your products, or to purchase goods from our existing portfolio for your own distribution or onward sales.
 
@@ -13,7 +12,12 @@ As a producer, you can ship stock to us in bulk and leave the onwards fulfilment
 
 As a distributor onward-seller, you can purchase from us in bulk, and allow us to handle the sourcing and distribution of the goods to you.
 
-If you have questions or would like to get a quote from us, you may
-contact us by calling +35548202336 or by emailing
-[info@markdist.com](mailto:info@markdist.com)
+If you have questions or would like to get a quote from us, you may contact us using the details below:
+
+| !images/home_icon.png(Home)! Address: | "Autostrada Tirane-Durres, km10, Kashar, Tirane, Albania":/location.html |
+| !images/email_icon.png(Email)! E-mail: | "info@markdist.com":mailto:info@markdist.com |
+| !images/phone_icon.png(Phone)! Phone: | +35548202336 / +35548202337 |
+| !images/fax_icon.png(Fax)! Fax: | +35548202407 / +35548202408 |
+
+
 
