@@ -45,7 +45,7 @@ Our sales force includes:
 Logistics
 ---------
 Once an order arrives at the Albanian border, it is processed by our logistic
-department who handle yearly volumes of over 35.000 pallets.
+department who handle yearly volumes of over 84.000 pallets.
 
 The Supply Chain Management team is in place to better manage stock by:
 
