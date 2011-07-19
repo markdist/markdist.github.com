@@ -32,7 +32,7 @@ h2. Food
 
 h2. Drinks
 
-!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)! !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!   !images/brands/Danesi_Logo.png(Danesi Caffe)!   !images/brands/Maromas_Logo.png(Maromas)! !images/brands/Bora_Logo.jpg(Bora Water)! 
+!images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)! !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!   !images/brands/Danesi_Logo.png(Danesi Caffe)!   !images/brands/Bora_Logo.jpg(Bora Water)! 
 
 h2. Office & Stationary
 
