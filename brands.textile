@@ -18,7 +18,7 @@ h2. Tobacco
 !images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.png(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.png(Maxim Slims)! !images/brands/Classic_Logo.png(Classic)!
 
 
-h2. Spirits
+h2. Spirits & Mixers 
 
 !images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)!  !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Dewars_Logo.png(Dewar's Whisky)!  !images/brands/Godet_Logo.jpg(Godet Cognac)! !images/brands/Southern_Comfort_Logo.png(Southern Comfort Liquer)!  !images/brands/AmaroLucano_Logo.png(Amaro Lucano Liquer)!  !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)! !images/brands/Sierra_Logo.png(Sierra Tequila)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)!  !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/Monin_Logo.png(Monin Syrups)!
 
