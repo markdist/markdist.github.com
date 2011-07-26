@@ -4,32 +4,32 @@ layout: wikistyle
 lang: sq
 ---
 
-Marketing & Distribution Albania
-================================
+Marketing & Distribution - Shqiperi
+===================================
 
 
 <div style="text-align: center;"><img class="border" src="images/MD-offices.jpg" alt="M&amp;D Headquarters" /></div>
 
-Established in 1991, Marketing & Distribution (M&D) is a customer oriented organisation involved in the import, distribution & marketing of a wide variety of products including:
+E themeluar në vitin 1991, Marketing & Distribution (M & D) është një kompani e specializuar në importin, shpërndarjen dhe tregtimin e një shumëllojshmëri produktesh duke përfshirë:
 
-* Health, Home & Beauty
-* Food & Drinks
-* Alcohol & Cigarettes
-* Office & Stationary
-* Mobile Communications
+* Produkte per Veten dhe Shtepine
+* Ushqime dhe Pije
+* Alkool & Cigare
+* Zyra & Kancelari
+* Telefon Celulare
 
 
-Mission Statement
------------------
-To our Principals we provide:
-* Real time marketing intelligence and information
-* Dedicated brand managers with the sole focus of growing their market share and business
+Misioni Jonë
+------------
+Principaleve tona ne u ofrojmë:
+* Informacione dhe të dhënat më të fundit të tregut
+* Menaxherë të përkushtuar me qëllim të vetëm rritje e tregut dhe biznesit te principalit përkatës
 
-To our customer we provide:
-* Top quality merchandising of products depending on their needs
-* Advertising & promotions aimed at supporting the brands and in accordance with the brand policy
+Klientëve tanë ne u ofrojmë:
+* Merchandising të cilësisë së lartë të produkteve në varësi të nevojave të tyre
+* Reklama dhe promovime të markave tona në përputhje me politikat e secilës markë
 
-Finally, to our end consumer we provide:
-* Attractive and strategically organised displays of high quality competitively priced products
-* Appealing promotions
+Së fundi, konsumatorëve tanë ne u ofrojmë:
+* Stenda tërheqëse, të rregulluara me kujdes me produkte të cilësisë së lartë dhe me çmime konkuruese
+* Promovime tërheqese
 

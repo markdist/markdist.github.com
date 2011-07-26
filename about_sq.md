@@ -7,24 +7,25 @@ lang: sq
 Për Ne
 ======
 
-Why M&D
+Pse M&D
 -------
 
-Our company, has for several years been among the top 10 companies in Albania as measured by turnover, importing and distributing market leading brands to customers who vary from supermarkets, groceries, variety stores and wholesalers, to pharmacies, offices, hotels, cafes and restaurants.
+Për shumë vite, kompania jonë ka qënë ndër 10 kompanitë më të medha në Shqipëri në bazë të xhiros vjetore, duke u marrë me importin dhe distribucionin e markave më të njohura në treg, nëpër kliente te ndryshëm, si supermarkete, dyqane te vogla dhe te mesme, grosist, farmaci, zyra, hotele, kafene dhe restorante.
 
-Our customer base exceeds 4200 customers and we deal with more than 450 invoices every day, covering 100% of the Albanian territory and population. The customer base is divided into segments, based on both customer and commercial criteria, to allow us to put the consumer at the heart of what we do and at the same time maximise the rate of return on the investments made into outlets.
+Ne kemi mbi 4200 klientë dhe prodhojmë mbi 450 fatura cdo ditë, duke mbuluar 100% të territorit dhe të popullsisë së Shqipërisë. Klientët jane te ndarë në segmente në bazë të kërkesave që kane, duke vënë në këtë mënyrë klientin në qëndër të asaj që bëjmë, dhe njëkohesisht duke na lejuar që të maksimizojmë normën e kthimit mbi investimet e bëra.
 
 <center><img class="border" src="images/map_small.jpg" alt="Distribution Coverage" /></center>
 
 
-Vision and Goals
-----------------
-We aim to achieve and sustain absolute market leadership in our entire products portfolio.
+Vizioni & Qëllimet tona
+-------------------------
+Ne kemi për qëllim për të arritur dhe mbajtur udhëheqjen absolute të tregut për të gjithë produktet në portofolin tonë.
 
-We are fully committed to doing an excellent job in satisfying both our principals' and our target customers' needs, so that they are rewarded for the trust and confidence they have placed in us.
+Ne jemi të angazhuar plotësisht për të bërë një punë të shkëlqyer në përmbushjen e kërkesave të prinicpaleve si dhe klientëve tanë, në mënyrë që ata të shpërblehen për besimin që na kanë dhënë.
 
-Our Consumer goal is to build the image of our brands in the consumers' minds:
+Qëllimi ynë është për të ndërtuar imazhin e markave tonë në mendjet e konsumatorëve:
 
-1. The right brand
-2. In the right outlets
-3. With the right marketing activity
+1. Markë e duhur
+2. Në vendet e duhura
+3. Me aktivitetin e duhur
+

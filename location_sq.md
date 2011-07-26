@@ -7,26 +7,24 @@ lang: sq
 Vendndodhja
 ===========
 
-Our integrated warehouse and offices are jointly-located on the same
-grounds beside the Tirana–Durres Highway with all major cities
-conveniently accessible within a two hour range. In particular, the main
-harbour at Durres is just 30 minutes away, and Rinas airport only 10
-minutes.
+Magazinë dhe zyrat tona jane bashkarisht të vendosura ne buzë të 
+autostradës Tiranë-Durrës, nga ku të gjitha qytetet e mëdha janë rreth dy 
+orë larg. Në veçanti, porti kryesor në Durrës është vetëm 30 minuta larg, 
+ndersa aeroporti i Rinasit vetem 10 minuta.
 
-This distribution centre has been our operations hub and the headquarters of
-our organisation since July 2005 and has a total area of over 30,000m&sup2;. 
-The centre provides: 
+Kjo qëndër shpërndarjeje ka qenë baza e operacioneve tona dhe zyra qëndrore 
+që në Korrik 2005 dhe ka një sipërfaqe prej rreth 30.000 m². Qendra ofron:
 
-* 1,500m&sup2; of office space
-* Covered storage area of 7,000 m&sup2;, capable to store 6.500 pallets
-* Picking area for 2.500 SKU
-* Deep freezing and refrigerating capacity of 250 pallets
-* 18 docking bays, used for both loading and unloading depending on flux 
-* 118 parking spaces to accommodate our expanding fleet needs
+* 1.500 m&sup2; hapësirë​për zyra
+* Magazine e mbuluar me siperfaqe prej 7,000 m&sup2, me një kapacitet për 6,500 paleta
+* Zonë ngarkimi për 2,500 SKU
+* Kapacitet frigoriferik dhe ngrirje të thellë prej 250 paletash
+* 18 porta që përdoren njëkohësisht për ngarkim dhe shkarkim në varësi të fluksit ditor
+* 118 hapësira parkimi për nevojat në zgjerim e sipër të flotës sonë
 
-We also provide:
-* Cross-docking in Fier and Korca
-* Sub-distributors in Saranda, Kukes, Peshkopi, Burrel, Lezhe, Korca, Fier, Tropoje, Himare &amp; Durres
+Ne gjithashtu ofrojnë:
+* Shkëmbim mallrash në Fier dhe Korçë per shperndarësit tonë në rrethe
+* Nën-shpërndarës në Sarandë, Kukës, Peshkopi, Burrel, Lezhë, Korçë, Fier, Tropojë, Himarë dhe Durres
 
 <p>
 <div align="center">

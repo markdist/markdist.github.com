@@ -81,7 +81,8 @@ this area.
 We also have a very experienced finance and accounting department with
 dedicated people for keeping track of changes to accounting practices
 and rules affecting our business, and instructing the sales force about
-changes in procedures and regulation. Our specialised legal department
-handles minor cases and rulings, and we work closely with leading law
-firm H&amp;H in high profile cases.
+changes in procedures and regulation. 
+
+Our specialised legal department handles minor cases and rulings, and we
+work closely with leading law firm H&amp;H in high profile cases.
 

@@ -7,81 +7,85 @@ lang: sq
 Shërbimet
 =========
 
-M&D currently has 278 employees of which 135 are directly involved in the sales
-process (on the field). Our brand management system is key to our success in
-working with a wide spread of brands across different fields. Each key brand is
-assigned to a specific manager who is responsible for every aspect from
-merchandising to marketing.
+M&D aktualisht ka 278 të punësuar nga të cilat 135 janë drejtpërdrejt të përfshirë në procesin
+e shitjes (në terren). Sistemi jonë i menaxhimit te markave është çelësi i suksesit të punës 
+sonë me një grup të gjërë markash në fusha nga më të ndryshmet. Çdo marke të rëndësishme i është
+paracaktuar një menaxher i veçantë, i cili është përgjegjës për çdo aspekt të shitjes dhe marketingut.
 
 
-Marketing
----------
-Our marketing team includes:
 
-* Marketing seniors who create and coordinate the marketing plans and activities
-* Marketing executives who execute the projects
-* An experienced promo team equipped with training staff, supervisors, promo team leaders and promo girls, all working as part of our permanent team
+Marketingu
+----------
+Ekipi jonë i marketingut përfshin:
 
-We have an in-house Promotion Agency that handles various tasks from in store promotions, to sponsoring events and sampling.
+* Menaxher marketingu që krijojnë dhe koordinojnë planet e marketingut dhe aktivitetet
+* Drejtues marketingu të cilët ekzekutojnë këto projekte
+* Një ekip me përvojë në promocione që përfshin trajnues, supervizor, vajza dhe mbikëqyrës promocioni, që punojnë së bashku si anëtarë të përhershëm të stafit tonë
 
-Sales
------
-The main objectives of our sales team are:
+Ne gjithashtu kemi një agjenci të brëndshme promovimi që merret me detyra të ndryshme duke nisur nga promovimet nëpër dyqane, deri në sponsorizimin e evenimeteve dhe shpërndarjen e mostrave.
 
-* Distribution
-* Pricing
-* Shelving
-* Merchandising
+
+
+Fuqia Shitëse
+-------------
+Objektivat kryesore të ekipit tonë të shitjes janë:
+
+* Shpërndarja
+* Vendosja e çmimeve
+* Rregullimi i rafteve
+* Reklamim dhe shitje
 	
 
-Our sales force includes:
+Fuqia jonë shitëse përfshin:
 
-* Merchandisers covering our top 120+ customers, who are constantly in touch with them, organising shelves and giving advice on orders
-* Key Account Managers responsible for orders and handling relationships with our top customers
-* Pre-Sale Representatives (PSRs) who take orders from larger customers and have access to all assortments of products
-* Van Sale Representatives (VSRs) who have stock availability in the van and take and deliver the order to smaller customers
-* Delivery staff who handle orders that come via PSRs or which are placed in person, via phone or email
+* Persona të dedikuar që janë vazhdimisht në kontakt me 120 klintët tanë me të mëdhenj, rregullojnë raftet dhe u japim këshilla për porositë
+* Menaxherë per klientët kryesorë (KAM) që janë përgjegjës për marrjen e porosive dhe marrëdhëniet me klientët tanë më te fuqishëm
+* Shitës PSR të cilët marrin porositë nga grupi i klientëve mesatar dhe kanë në dispozicion të gjithë llojshmërinë e produkteve në magazinë
+* Shitës VSR të cilët kanë ne furgonin e tyre një gamë më të kufizuar produktesh me të cilën plotësojnë në çast porositë e klientët të vegjël
+* Shofera të cilët merren me porositë që vijnë nëpërmjet PSR-ve ose drejtpërdrejt nga klientë të tjerë, nëpërmjet telefonit ose emailit
 
-Logistics
----------
-Once an order arrives at the Albanian border, it is processed by our logistic
-department who handle yearly volumes of over 84.000 pallets.
 
-The Supply Chain Management team is in place to better manage stock by:
+Llogjistika
+-----------
+Kur një porosi arrin në kufirin Shqiptar, përpunohet nga departamenti jonë i llogjistikës,
+të cilët merren me volume vjetore prej më shumë se 84,000 paleta.
 
-* Frequent stock rotation of over 10 times per year
-* Reducing stock levels to a calculated optimum
-* Avoiding out-of-stock situations in spite of the large number of SKUs and suppliers
-* Keeping stock levels at 150% of the sales volume in the lead time
+Ekipi i llogjistikës mundëson menaxhimin sa më të mirë të stokut duke:
 
-They also handle customs clearance, and excise processing for excise goods.
+* Rotacion i shpeshtë i stokut, mbi 10 herë në vit
+* Reduktimi i gjendjes se mallrave në një nivel optimal
+* Shmangia e mungese te mallrave megjithë numrin e madh të SKU-ve dhe furnitorëve
+* Mbajtja e një sasie stoku ne vlerën 150% të shitjeve që bëhen gjate kohës së lëvrimit
+
+Ata gjithashtu merrem me doganen dhe akçizën për mallra të vecanta.
 
 <div style="text-align: center;"><img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" /></div>
 
-Distribution
+Shperndarja
 ------------
-Our expanding fleet is what allows us to guarantee prompt delivery of goods to any part of Albania. It currently includes:
+Flota jonë gjithnjë në rritje, është ajo që na lejon të sigurojmë shpërndarjen e shpejtë të mallrave në çdo pjesë të Shqipërisë. Ajo aktualisht përfshin:
 
-* 27 Caddy Vans used by our Pre-Sale Representatives
-* 8 Heavy Trucks for Delivery (GVW of 10+ tons)
-* 9 Light Delivery Vans
-* 70 Light Vans used by our Van Sale Representatives
-* 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing & Promotion, Merchandisers and Office Staff
+* 27 makina Caddy që përdoren nga shitësit tanë PSR
+* 8 kamionë të rëndë për shpërndarje (me peshe bruto mbi 10 ton)
+* 9 furgona te lehte shpërndarje 
+* 70 furgona qe përdoren nga shitësit tanë VSR
+* 46 automjete që përdoren nga mbikëqyrësit, supervizorët, menaxherët, ekipi i provimeve, dhe stafi i zyrës
+
 
 <div style="text-align: center;"><img class="border" src="images/vans.jpg" alt="Fleet"/></div>
 
-Others
-------
-Our skilled IT department develop and maintain bespoke in-house software
-that allows us to track and audit our business at any stage of the
-supply chain. Stats and reports are available instantly, direct from our
-sale representatives, and we are constantly innovating and improving in
-this area. 
+Te tjera
+--------
+Departamenti jonë i specializuar i informatikës, krijon dhe mirëmban programe të brëndshme
+që na lejojnë të ndjekim dhe të auditojmë biznesin tonë në çdo fazë të zinxhirit shitës. 
+Statistika dhe raport të ndryshme mund të krijohen në çast, dhe ne jemi vazhdimisht duke 
+punuar për të përmirësuar në këtë fushë.
 
-We also have a very experienced finance and accounting department with
-dedicated people for keeping track of changes to accounting practices
-and rules affecting our business, and instructing the sales force about
-changes in procedures and regulation. Our specialised legal department
-handles minor cases and rulings, and we work closely with leading law
-firm H&amp;H in high profile cases.
+Ne kemi gjithashtu një departament finance dhe kontabilitetit me shumë përvojë në fushë, dhe 
+njerëz të përkushtuar për ndjekjen e ndryshimeve në praktikat e kontabilitetit, procedurave 
+dhe rregulloreve që ndikojnë në biznesin tonë, dhe që udhëzojnë forcën shitëse në lidhje me 
+këto ndryshime. 
+
+Departamenti jonë ligjor merret me zgjidhjen e çështjeve të vogla gjyqësore, 
+ndërkohë që firma e njohur H&amp;H merret me rastet me profil të lartë.
 
