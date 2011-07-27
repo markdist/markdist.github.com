@@ -21,9 +21,9 @@ Established in 1991, Marketing & Distribution (M&D) is a customer oriented compa
 
 Mission Statement
 -----------------
-To our Principals we provide:
+To our suppliers we provide:
 * Real time marketing intelligence and information
-* Dedicated brand managers with the sole focus of growing their market share and business
+* Dedicated managers with the sole focus of growing their market share and business
 
 To our customer we provide:
 * Top quality merchandising of products depending on their needs

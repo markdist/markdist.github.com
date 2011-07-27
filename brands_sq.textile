@@ -1,12 +1,12 @@
 ---
-title: Markat
+title: Produktet
 layout: wikistyle
 lang: sq
 ---
 
 notextile. <div class="brands">
 
-h1. Markat
+h1. Produktet
 
 h2. Kujdesi për Veten dhe Shtëpinë
 

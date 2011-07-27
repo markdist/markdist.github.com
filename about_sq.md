@@ -10,22 +10,22 @@ Për Ne
 Pse M&D
 -------
 
-Për shumë vite, kompania jonë ka qënë ndër 10 kompanitë më të medha në Shqipëri në bazë të xhiros vjetore, duke u marrë me importin dhe distribucionin e markave më të njohura në treg, nëpër kliente te ndryshëm, si supermarkete, dyqane te vogla dhe te mesme, grosist, farmaci, zyra, hotele, kafene dhe restorante.
+Prej shumë vitesh tashmë, shoqëria jonë rradhitet ndër 10 shoqëritë më të mëdha në Shqipëri për sa i përket xhiros vjetore të realizuar nga importi dhe shpërndarja nëpër klientë të ndryshëm (si supermarkete, dyqane të vogla dhe të mesme, grosistë, farmaci, zyra, hotele, kafene dhe restorante), të produkteve më të njohura në treg. 
 
-Ne kemi mbi 4200 klientë dhe prodhojmë mbi 450 fatura cdo ditë, duke mbuluar 100% të territorit dhe të popullsisë së Shqipërisë. Klientët jane te ndarë në segmente në bazë të kërkesave që kane, duke vënë në këtë mënyrë klientin në qëndër të asaj që bëjmë, dhe njëkohesisht duke na lejuar që të maksimizojmë normën e kthimit mbi investimet e bëra.
+Ne kemi mbi 4200 klientë dhe prodhojmë mbi 450 fatura cdo ditë, duke mbuluar 100% të territorit dhe të popullsisë së Shqipërisë. Klientët janë të ndarë në segmente në bazë të kërkesave që kanë, duke vënë klientin në qëndër të asaj që bëjmë, dhe njëkohësisht duke na lejuar që të rrisim në maksimum normën e fitimit mbi investimet e bëra.
 
 <center><img class="border" src="images/map_small.jpg" alt="Distribution Coverage" /></center>
 
 
 Vizioni & Qëllimet tona
 -------------------------
-Ne kemi për qëllim për të arritur dhe mbajtur udhëheqjen absolute të tregut për të gjithë produktet në portofolin tonë.
+Qëllimi ynë është arritja dhe mbajtja e udhëheqjes absolute të tregut, për të gjithë produktet e portofolit tonë.
 
 Ne jemi të angazhuar plotësisht për të bërë një punë të shkëlqyer në përmbushjen e kërkesave të prinicpaleve si dhe klientëve tanë, në mënyrë që ata të shpërblehen për besimin që na kanë dhënë.
 
-Qëllimi ynë është për të ndërtuar imazhin e markave tonë në mendjet e konsumatorëve:
+Synimi ynë është krijimi dhe ngulitja e imazhit të produkteve tona në mendjet e konsumatorëve:
 
-1. Markë e duhur
-2. Në vendet e duhura
+1. Produkti i duhur
+2. Në vendin e duhur
 3. Me aktivitetin e duhur
 

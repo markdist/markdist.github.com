@@ -7,11 +7,10 @@ lang: en
 Our Services
 ============
 
-M&D currently has 278 employees of which 135 are directly involved in the sales
-process (on the field). Our brand management system is key to our success in
-working with a wide spread of brands across different fields. Each key brand is
-assigned to a specific manager who is responsible for every aspect from
-merchandising to marketing.
+M&D currently has over 300 employees of which 50% is directly involved in the sales
+process (on the field). Our management system is key to our success in
+working with a wide spread of brands across different fields. Each key supplier is
+assigned to a specific manager who is responsible for every aspect.
 
 
 Marketing
