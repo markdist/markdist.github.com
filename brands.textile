@@ -8,7 +8,7 @@ notextile. <div class="brands">
 
 h1. Brands
 
-h2. Health, Beauty and Home
+h2. Home &amp; Beauty
 
 !images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.png(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Camay_Logo.png(Camay)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/AZ_Logo.png(AZ)! !images/brands/OldSpice_Logo.png(Old Spice)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! 
 
@@ -18,11 +18,11 @@ h2. Tobacco
 !images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.png(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.png(Maxim Slims)! !images/brands/Classic_Logo.png(Classic)!
 
 
-h2. Spirits & Mixers 
+h2. Spirits &amp; Mixers 
 
 !images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)!  !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Dewars_Logo.png(Dewar's Whisky)!  !images/brands/Godet_Logo.jpg(Godet Cognac)! !images/brands/Southern_Comfort_Logo.png(Southern Comfort Liquer)!  !images/brands/AmaroLucano_Logo.png(Amaro Lucano Liquer)!  !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)! !images/brands/Sierra_Logo.png(Sierra Tequila)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)!  !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/Monin_Logo.png(Monin Syrups)!
 
-h2. Beer & Wine
+h2. Beer &amp; Wine
 
 !images/brands/Veltins_Logo.png(Veltins Beer)!  !images/brands/Kaiserdom_Logo.jpg(Kaiserdom Beer)! !images/brands/Bottega_Logo.png(Alexander-Bottega Wines)!  !images/brands/CantineDelColle_Logo.jpg(Cantine Del Colle Wines)!  !images/brands/Boutari_Logo.jpg(Boutari Wines)!
 
@@ -34,7 +34,7 @@ h2. Drinks
 
 !images/brands/Dukat_Logo.png(Dukat)!  !images/brands/Granini_Logo.png(Granini)! !images/brands/Sio_Logo.png(Sio)! !images/brands/Yo_Logo.png(Yo)!   !images/brands/Danesi_Logo.png(Danesi Caffe)!   !images/brands/Bora_Logo.jpg(Bora Water)! 
 
-h2. Office & Stationary
+h2. Office &amp; Stationary
 
 !images/brands/3M_Logo.png(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.png(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
 

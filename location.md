@@ -25,8 +25,8 @@ The centre provides:
 * 118 parking spaces to accommodate our expanding fleet needs
 
 We also provide:
-* Cross-docking in Fier and Korca
-* Sub-distributors in Saranda, Kukes, Peshkopi, Burrel, Lezhe, Korca, Fier, Tropoje, Himare &amp; Durres
+* Cross-docking in Fier and Korça
+* Sub-distributors in Saranda, Kukës, Peshkopia, Burreli, Lezha, Korça, Fieri, Tropoja, Himara and Durrës
 
 <p>
 <div align="center">

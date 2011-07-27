@@ -7,24 +7,22 @@ lang: sq
 Vendndodhja
 ===========
 
-Magazinë dhe zyrat tona jane bashkarisht të vendosura ne buzë të 
-autostradës Tiranë-Durrës, nga ku të gjitha qytetet e mëdha janë rreth dy 
-orë larg. Në veçanti, porti kryesor në Durrës është vetëm 30 minuta larg, 
-ndersa aeroporti i Rinasit vetem 10 minuta.
+Magazina dhe zyrat tona janë bashkarisht të vendosura në anë të autostradës 
+Tiranë-Durrës, 10 km larg Tiranës, 30 km nga porti kryesor i Durrësit dhe 7 km 
+nga aeroporti i Rinasit.
 
 Kjo qëndër shpërndarjeje ka qenë baza e operacioneve tona dhe zyra qëndrore 
-që në Korrik 2005 dhe ka një sipërfaqe prej rreth 30.000 m². Qendra ofron:
-
-* 1.500 m&sup2; hapësirë​për zyra
-* Magazine e mbuluar me siperfaqe prej 7,000 m&sup2, me një kapacitet për 6,500 paleta
+që në Korrik 2005 dhe ka një sipërfaqe prej rreth 30,000 m&sup2;. Qendra ofron:
+* 1,500 m&sup2; hapësirë​për zyra
+* Magazine e mbuluar me siperfaqe prej 7,000 m&sup2; me një kapacitet për 6,500 paleta
 * Zonë ngarkimi për 2,500 SKU
 * Kapacitet frigoriferik dhe ngrirje të thellë prej 250 paletash
 * 18 porta që përdoren njëkohësisht për ngarkim dhe shkarkim në varësi të fluksit ditor
-* 118 hapësira parkimi për nevojat në zgjerim e sipër të flotës sonë
+* 118 hapësira parkimi për nevojat në zgjerim e sipër të flotës sonë motorike
 
 Ne gjithashtu ofrojnë:
-* Shkëmbim mallrash në Fier dhe Korçë per shperndarësit tonë në rrethe
-* Nën-shpërndarës në Sarandë, Kukës, Peshkopi, Burrel, Lezhë, Korçë, Fier, Tropojë, Himarë dhe Durres
+* Pikë tranzitimi mallrash në Fier dhe Korçë per shperndarësit tonë në rrethe
+* Nën-shpërndarës në Sarandë, Kukës, Peshkopi, Burrel, Lezhë, Korçë, Fier, Tropojë, Himarë dhe Durrës
 
 <p>
 <div align="center">

@@ -7,7 +7,7 @@ lang: en
 Our Services
 ============
 
-M&D currently has over 300 employees of which 50% is directly involved in the sales
+M&amp;D currently has over 300 employees of which 50% is directly involved in the sales
 process (on the field). Our management system is key to our success in
 working with a wide spread of brands across different fields. Each key supplier is
 assigned to a specific manager who is responsible for every aspect.
@@ -37,13 +37,13 @@ Our sales force includes:
 
 * Merchandisers covering our top 120+ customers, who are constantly in touch with them, organising shelves and giving advice on orders
 * Key Account Managers responsible for orders and handling relationships with our top customers
-* Pre-Sale Representatives (PSRs) who take orders from larger customers and have access to all assortments of products
-* Van Sale Representatives (VSRs) who have stock availability in the van and take and deliver the order to smaller customers
+* Pre-Sale Representatives (PSRs) who take orders from customers, pass them on to the logistics department with fulfils them within 24 hours 
+* Van Sale Representatives (VSRs) who have stock availability in the van and fulfil the order to smaller customers
 * Delivery staff who handle orders that come via PSRs or which are placed in person, via phone or email
 
 Logistics
 ---------
-Once an order arrives at the Albanian border, it is processed by our logistic
+When a delivery from our suppliers arrives at our warehouse, it is processed by our logistic
 department who handle yearly volumes of over 84.000 pallets.
 
 The Supply Chain Management team is in place to better manage stock by:
@@ -53,19 +53,19 @@ The Supply Chain Management team is in place to better manage stock by:
 * Avoiding out-of-stock situations in spite of the large number of SKUs and suppliers
 * Keeping stock levels at 150% of the sales volume in the lead time
 
-They also handle customs clearance, and excise processing for excise goods.
+This team also handles customs clearance, and excise processing for excise goods.
 
 <div style="text-align: center;"><img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" /></div>
 
 Distribution
 ------------
-Our expanding fleet is what allows us to guarantee prompt delivery of goods to any part of Albania. It currently includes:
+Our expanding vehicle fleet is what allows us to guarantee prompt delivery of goods to any part of Albania. It currently includes:
 
 * 27 Caddy Vans used by our Pre-Sale Representatives
 * 8 Heavy Trucks for Delivery (GVW of 10+ tons)
 * 9 Light Delivery Vans
 * 70 Light Vans used by our Van Sale Representatives
-* 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing & Promotion, Merchandisers and Office Staff
+* 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing and Promotion, Merchandisers and Office Staff
 
 <div style="text-align: center;"><img class="border" src="images/vans.jpg" alt="Fleet"/></div>
 

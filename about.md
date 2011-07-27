@@ -7,12 +7,12 @@ lang: en
 About Us
 ========
 
-Why M&D
--------
+Why M&amp;D
+-----------
 
 Our company, has for several years been among the top 10 companies in Albania as measured by turnover, importing and distributing market leading brands to customers who vary from supermarkets, groceries, variety stores and wholesalers, to pharmacies, offices, hotels, cafes and restaurants.
 
-Our customer base exceeds 4200 customers and we deal with more than 450 invoices every day, covering 100% of the Albanian territory and population. The customer base is divided into segments, based on both customer and commercial criteria, to allow us to put the consumer at the heart of what we do and at the same time maximise the rate of return on the investments made into outlets.
+Our customer base exceeds 6,000 customers and we deal with more than 550 invoices every day, covering 100% of the Albanian territory and population. The customer base is divided into segments, based on both customer and commercial criteria, to allow us to put the consumer at the heart of what we do and at the same time maximise the rate of return on the investments made.
 
 <center><img class="border" src="images/map_small.jpg" alt="Distribution Coverage" /></center>
 
