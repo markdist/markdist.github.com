@@ -7,7 +7,7 @@ lang: en
 Our Services
 ============
 
-M&amp;D currently has over 300 employees of which 50% is directly involved in the sales
+M&amp;D currently has over 300 employees of which 50% are directly involved in the sales
 process (on the field). Our management system is key to our success in
 working with a wide spread of brands across different fields. Each key supplier is
 assigned to a specific manager who is responsible for every aspect.
@@ -53,8 +53,8 @@ from our clients or PSRs, the team enables its fulfilment promptly and always wi
 The Supply Chain Management team is in place to also better manage stock by:
 
 * Frequent stock rotation of over 10 times per year
-* Reducing stock levels to an optimum, calculate based on the sales volume in the lead time
-* Avoiding out-of-stock situations despite of the large number of SKUs and suppliers
+* Reducing stock levels to an optimum, calculated based on the sales volume in the lead time
+* Avoiding out-of-stock situations despite a large number of SKUs and suppliers
 * First In First Out (FIFO) handling of products with expiry dates
 * Using motorised vehicles (such as forklifts and electric transpallets) for transporting all goods within the warehouse
 * Using a coordinate system for organising the warehouse, which also facilitates the job of the warehouse employees
