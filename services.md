@@ -43,8 +43,8 @@ Our sales force includes:
 
 Logistics
 ---------
-Our logistics department handles various customs services such as: transit, custom clearance, export
-of goods and excise processing.
+Our logistics department handles various tax and customs services such as: transits, customs clearance, 
+export of goods and excise processing.
 
 When a delivery from our suppliers arrives at our warehouse, it is processed by this department,
 who handles yearly volumes of over 84.000 pallets. When an order comes through to our logistic centre, 
