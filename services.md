@@ -47,12 +47,10 @@ Our logistics department handles various customs services such as: transit, cust
 of goods and excise processing.
 
 When a delivery from our suppliers arrives at our warehouse, it is processed by this department,
-who handle yearly volumes of over 84.000 pallets.
+who handles yearly volumes of over 84.000 pallets. When an order comes through to our logistic centre, 
+from our clients or PSRs, the team enables its fulfilment promptly and always within 24 hours. 
 
-When an order comes through to our logistic centre, the team enables its fulfilment promptly
-within at most 24 hours. 
-
-The Supply Chain Management team is in place to better manage stock by:
+The Supply Chain Management team is in place to also better manage stock by:
 
 * Frequent stock rotation of over 10 times per year
 * Reducing stock levels to an optimum, calculate based on the sales volume in the lead time

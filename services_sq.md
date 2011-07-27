@@ -51,12 +51,10 @@ Departamenti ynë i logjistikës mbulon shërbimet doganore dhe tatimore si: tra
 eksport per mallra dhe akçizë.
 
 Kur një furnizim arrin në magazinat tona, përpunohet nga ky departament, i cili menaxhon një 
-volum vjetor prej më shumë se 84,000 paleta.
-
-Kur një porosi arrin ne qëndrën tonë të logjistikës, ekipi mundëson ekzekutimin e saj brënda 
-një afati prej 24 orësh. 
+volum vjetor prej më shumë se 84,000 paleta. Kur një porosi arrin ne qëndrën tonë të logjistikës, 
+nga klienta ose shitësa PSR, ekipi mundëson ekzekutimin e saj brënda një afati prej 24 orësh. 
  
-Ekipi i logjistikës mundëson menaxhimin sa më të mirë të stokut përmes:
+Ekipi i logjistikës gjithashtu mundëson menaxhimin sa më të mirë të stokut përmes:
 
 * Rotacionit të shpeshtë të stokut, mbi 10 herë në vit
 * Reduktimit të gjendjes së stokut në një nivel optimal, të llogaritur në bazë të sasisë së shitur gjatë kohës së lëvrimit
