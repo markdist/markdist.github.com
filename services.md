@@ -43,17 +43,23 @@ Our sales force includes:
 
 Logistics
 ---------
-When a delivery from our suppliers arrives at our warehouse, it is processed by our logistic
-department who handle yearly volumes of over 84.000 pallets.
+Our logistics department handles various customs services such as: transit, custom clearance, export
+of goods and excise processing.
+
+When a delivery from our suppliers arrives at our warehouse, it is processed by this department,
+who handle yearly volumes of over 84.000 pallets.
+
+When an order comes through to our logistic centre, the team enables its fulfilment promptly
+within at most 24 hours. 
 
 The Supply Chain Management team is in place to better manage stock by:
 
 * Frequent stock rotation of over 10 times per year
-* Reducing stock levels to a calculated optimum
-* Avoiding out-of-stock situations in spite of the large number of SKUs and suppliers
-* Keeping stock levels at 150% of the sales volume in the lead time
-
-This team also handles customs clearance, and excise processing for excise goods.
+* Reducing stock levels to an optimum, calculate based on the sales volume in the lead time
+* Avoiding out-of-stock situations despite of the large number of SKUs and suppliers
+* First In First Out (FIFO) handling of products with expiry dates
+* Using motorised vehicles (such as forklifts and electric transpallets) for transporting all goods within the warehouse
+* Using a coordinate system for organising the warehouse, which also facilitates the job of the warehouse employees
 
 <div style="text-align: center;"><img class="border" src="images/MD-warehouse.png" alt="M&amp;D Warehouse" height="300px" /></div>
 
@@ -61,11 +67,11 @@ Distribution
 ------------
 Our expanding vehicle fleet is what allows us to guarantee prompt delivery of goods to any part of Albania. It currently includes:
 
-* 27 Caddy Vans used by our Pre-Sale Representatives
-* 8 Heavy Trucks for Delivery (GVW of 10+ tons)
-* 9 Light Delivery Vans
-* 70 Light Vans used by our Van Sale Representatives
-* 46 cars used by our Supervisors, Key Accounts Managers, Business Unit Managers, Marketing and Promotion, Merchandisers and Office Staff
+* 7 heavy trucks for delivery (GVW of 10+ tons)
+* 36 medium delivery vans (GVW of 2-3 tons) used by our VSRs and delivery staff
+* 59 light delivery vans (GVW of 0.5-2 tons) used by our VSRs
+* 27 mini vans (GVW of less than 0.5 tons) used by our PSRs
+* 68 cars and mini-buses used by our supervisors, key account managers, business unit managers, marketing and promotion team, merchandisers and for staff transportation  
 
 <div style="text-align: center;"><img class="border" src="images/vans.jpg" alt="Fleet"/></div>
 
@@ -83,5 +89,5 @@ and rules affecting our business, and instructing the sales force about
 changes in procedures and regulation. 
 
 Our specialised legal department handles minor cases and rulings, and we
-work closely with leading law firm H&amp;H in high profile cases.
+work closely with a leading law firm in high profile cases.
 

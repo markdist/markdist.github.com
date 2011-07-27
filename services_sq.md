@@ -56,13 +56,11 @@ volum vjetor prej më shumë se 84,000 paleta.
 Kur një porosi arrin ne qëndrën tonë të logjistikës, ekipi mundëson ekzekutimin e saj brënda 
 një afati prej 24 orësh. 
  
-
 Ekipi i logjistikës mundëson menaxhimin sa më të mirë të stokut përmes:
 
 * Rotacionit të shpeshtë të stokut, mbi 10 herë në vit
-* Reduktimit të gjendjes së stokut në një nivel optimal
+* Reduktimit të gjendjes së stokut në një nivel optimal, të llogaritur në bazë të sasisë së shitur gjatë kohës së lëvrimit
 * Shmangien e situatave pa gjendje malli në magazinë, megjithë numrin e madh të SKU-ve dhe furnitorëve
-* Mbajtjen e rezervave optimale të llogaritura në bazë të sasisë së shitur gjatë kohës së lëvrimit
 * Hyrjes dhe daljes së mallit në bazë të afatit të skadimit
 * Lëvizjes me mjete të motorizuara (piruna dhe transpaleta elektrike) të të gjithë mallrave brënda territorit të magazinës
 * Ndarjes së sipërfaqes së magazinës në koordinata që gjithashtu lehtëson punën e ekipit të magazinës
