@@ -10,7 +10,7 @@ Marketing &amp; Distribution - Albania
 
 <div style="text-align: center;"><img class="border" src="images/MD-offices.jpg" alt="M&amp;D Headquarters" /></div>
 
-Established in 1991, Marketing &amp; Distribution (M&amp;D) is a customer oriented company involved in the import, distribution &amp; marketing of a wide variety of products including:
+Established in 1991, Marketing &amp; Distribution (M&amp;D) is a customer oriented company involved in the import, distribution and marketing of a wide variety of products including:
 
 * Home &amp; Beauty
 * Food &amp; Drinks
