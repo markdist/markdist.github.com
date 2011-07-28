@@ -13,19 +13,6 @@ sonë me një grup të gjërë produktesh në fusha nga më të ndryshmet. Çdo 
 paracaktuar një menaxher i veçantë, i cili është përgjegjës për çdo aspekt.
 
 
-
-Marketingu
-----------
-Ekipi ynë i marketingut përfshin:
-
-* Menaxher marketingu që krijojnë dhe koordinojnë planet e marketingut dhe aktivitetet
-* Drejtues marketingu të cilët ekzekutojnë këto projekte
-* Ekip me përvojë në promocione që përfshin trajnues, supervizor, hostes dhe mbikëqyrës promocioni, që punojnë së bashku si anëtarë të përhershëm të stafit tonë
-
-Ne gjithashtu kemi një agjenci të brëndshme promovimi që merret me detyra të ndryshme duke nisur nga promovimet nëpër dyqane, deri në sponsorizimin e aktiviteteve dhe shpërndarjen e mostrave.
-
-
-
 Fuqia Shitëse
 -------------
 Objektivat kryesore të ekipit tonë të shitjes janë:
@@ -77,6 +64,18 @@ Flota jonë e automjeteve, e cila është gjithnjë në rritje, na lejon të sig
 
 
 <div style="text-align: center;"><img class="border" src="images/vans.jpg" alt="Fleet"/></div>
+
+Marketingu
+----------
+Ekipi ynë i marketingut përfshin:
+
+* Menaxher marketingu që krijojnë dhe koordinojnë planet e marketingut dhe aktivitetet
+* Drejtues marketingu të cilët ekzekutojnë këto projekte
+* Ekip me përvojë në promocione që përfshin trajnues, supervizor, hostes dhe mbikëqyrës promocioni, që punojnë së bashku si anëtarë të përhershëm të stafit tonë
+
+Ne gjithashtu kemi një agjenci të brëndshme promovimi që merret me detyra të ndryshme duke nisur nga promovimet nëpër dyqane, deri në sponsorizimin e aktiviteteve dhe shpërndarjen e mostrave.
+
+
 
 Të Tjera
 --------

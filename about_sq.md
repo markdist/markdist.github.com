@@ -27,5 +27,6 @@ Synimi ynë është krijimi dhe ngulitja e imazhit të produkteve tona në mendj
 
 1. Produkti i duhur
 2. Në vendin e duhur
-3. Me aktivitetin e duhur
+3. Me çmimin e duhur
+4. Me marketingun e duhur
 

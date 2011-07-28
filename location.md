@@ -6,19 +6,16 @@ lang: en
 
 Location
 ========
-
-Our integrated warehouse and offices are jointly-located on the same
-grounds beside the Tirana–Durres Highway with all major cities
-conveniently accessible within a two hour range. In particular, the main
-harbour at Durres is just 30 minutes away, and Rinas airport only 10
-minutes.
+Our integrated warehouse and offices are jointly-located on the same grounds 
+beside the Tirana–Durrës Highway, 10 km away from Tirana, 30 km from the main
+harbour at Durrës, and 7 km away from Rinas airport.
 
 This distribution centre has been our operations hub and the headquarters of
 our organisation since July 2005 and has a total area of over 30,000m&sup2;. 
 The centre provides: 
 
 * 1,500m&sup2; of office space
-* Covered storage area of 7,000 m&sup2;, capable to store 6.500 pallets
+* Covered storage area of 7,000 m&sup2;, capable of storing 6.500 pallets
 * Picking area for 2.500 SKU
 * Deep freezing and refrigerating capacity of 250 pallets
 * 18 docking bays, used for both loading and unloading depending on flux 
@@ -26,7 +23,7 @@ The centre provides:
 
 We also provide:
 * Cross-docking in Fier and Korça
-* Sub-distributors in Saranda, Kukës, Peshkopia, Burreli, Lezha, Korça, Fieri, Tropoja, Himara and Durrës
+* Sub-distr ibutors in Saranda, Kukës, Peshkopia, Burreli, Lezha, Korça, Fieri, Tropoja, Himara and Durrës
 
 <p>
 <div align="center">

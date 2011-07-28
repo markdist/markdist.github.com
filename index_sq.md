@@ -22,10 +22,12 @@ E themeluar në vitin 1991, Marketing &amp; Distribution (M&amp;D) është një 
 Misioni Ynë
 -----------
 Furnitorëve tanë ne u ofrojmë:
+* Shitjen dhe shpërndarjen e produkteve të tyre
 * Informacionet dhe të dhënat më të fundit të tregut
 * Menaxherë të përkushtuar me qëllim të vetëm rritjen e tregut dhe biznesit të furnitorit përkatës
 
 Klientëve tanë ne u ofrojmë:
+* Produkte nga më të njohurat në treg
 * Strategji e cilësisë së lartë të tregtimit të produkteve tona, në varësi të nevojave të tyre
 * Reklama dhe promovime të produkteve në përputhje me politikat e secilit produkt
 

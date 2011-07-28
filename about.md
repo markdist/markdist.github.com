@@ -21,10 +21,11 @@ Vision and Goals
 ----------------
 We aim to achieve and sustain absolute market leadership in our entire products portfolio.
 
-We are fully committed to doing an excellent job in satisfying both our principals' and our target customers' needs, so that they are rewarded for the trust and confidence they have placed in us.
+We are fully committed to doing an excellent job in satisfying both our suppliers' and our target customers' needs, so that they are rewarded for the trust and confidence they have placed in us.
 
 Our Consumer goal is to build the image of our brands in the consumers' minds:
 
-1. The right brand
-2. In the right outlets
-3. With the right marketing activity
+1. The right product
+2. In the right place
+3. At the right price
+4. With the right marketing activity
