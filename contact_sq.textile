@@ -17,7 +17,7 @@ Nëse keni ndonjë pyetje apo dëshironi të merrni një ofertë prej nesh, ju m
 | !images/home_icon.png(Home)! Adresa: | "Autostrada Tirane-Durres, km10, Kashar, Tirane, Albania":/location.html |
 | !images/email_icon.png(Email)! E-mail: | "info@markdist.com":mailto:info@markdist.com |
 | !images/phone_icon.png(Phone)! Tel: | +35548202336 / +35548202337 |
-| !images/fax_icon.png(Fax)! Fax: | +35548202407 / +35548202408 |
+| !images/fax_icon.png(Fax)! Fax: | +35548202408 |
 
 
 
