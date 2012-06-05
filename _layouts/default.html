@@ -23,7 +23,11 @@
     <div id="wrap">
       <div id="header">
         <h1 class="logo-text">Marketing &amp; Distribution - Albania</h1>
+        {% if page.lang == "sq" %}
+        <a href="/index_sql.html"><img class="logo-image" src="images/MD-logo-small.png" alt="M&amp;D Logo" /></a>
+        {% else %}
         <a href="/"><img class="logo-image" src="images/MD-logo-small.png" alt="M&amp;D Logo" /></a>
+        {% endif %}
       </div>
       <div id="menu">
         <ul>
@@ -32,7 +36,7 @@
           <li><a href="/about_sq.html">Rreth Nesh</a></li>
           <li><a href="/services_sq.html">Shërbimet</a></li>
           <li><a href="/brands_sq.html">Produktet</a></li>
-          <li><a href="http://b2b.markdist.com/">Kancelari</a></li>
+          <li><a href="http://b2b.markdist.com/">B2B</a></li>
           <li><a href="/location_sq.html">Vendndodhja</a></li>
           <li><a href="/contact_sq.html">Na Kontaktoni</a></li>
           <!--<li><a href="/index_sq.html">|</a></li>-->
@@ -42,7 +46,7 @@
           <li><a href="/about.html">About</a></li>
           <li><a href="/services.html">Services</a></li>
           <li><a href="/brands.html">Brands</a></li>
-          <li><a href="http://b2b.markdist.com/">Stationery</a></li>
+          <li><a href="http://b2b.markdist.com/">B2B</a></li>
           <li><a href="/location.html">Location</a></li>
           <li><a href="/contact.html">Contact Us</a></li>
           <!--<li><a href="/">|</a></li>-->
