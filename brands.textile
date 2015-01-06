@@ -28,7 +28,7 @@ h2. Beer &amp; Wine
 
 h2. Food
 
-!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)! !images/brands/Lactel_Logo.png(Lactel)! !images/brands/Dr_Oetker_Logo.png(Dr Oetker)! !images/brands/Vitalis_Logo.png(Vitalis)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)! !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)! !images/brands/Big_Babol_Logo.png(Big Babol)! !images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Baci_Logo.png(Baci)! !images/brands/Perugina_Logo.png(Perugina)! !images/brands/Buitoni_Logo.png(Buitoni)!
+!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)! !images/brands/Lactel_Logo.png(Lactel)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)! !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)! !images/brands/Big_Babol_Logo.png(Big Babol)! !images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Baci_Logo.png(Baci)! !images/brands/Perugina_Logo.png(Perugina)! !images/brands/Buitoni_Logo.png(Buitoni)! !images/brands/Llaki_Salep_Logo.png(Llaki Salep)!
 
 h2. Office &amp; Stationary
 
