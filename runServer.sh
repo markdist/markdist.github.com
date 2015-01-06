@@ -1,1 +1,3 @@
-jekyll --auto --server
+#!/bin/sh
+
+jekyll serve -w
