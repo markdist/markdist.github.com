@@ -10,17 +10,17 @@ h1. Produktet
 
 h2. Kujdesi për Veten dhe Shtëpinë
 
-!images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.jpg(Dash)! !images/brands/Bonux_Logo.jpg(Bonux)! !images/brands/Tide_Logo.png(Tide)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.png(Pantene)! !images/brands/WashGo_Logo.png(Wash & Go)! !images/brands/Herbal_Essences_Logo.png(Herbal Essences)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Camay_Logo.png(Camay)!  !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.png(Always)! !images/brands/Alldays_Logo.png(Alldays)! !images/brands/OralB_Logo.jpg(Oral-B)!  !images/brands/AZ_Logo.png(AZ)! !images/brands/OldSpice_Logo.png(Old Spice)! !images/brands/Gillette_Logo.png(Gillette)! !images/brands/Braun_Logo.png(Braun)! 
+!images/brands/Ariel_Logo.png(Ariel)! !images/brands/Dash_Logo.png(Dash)! !images/brands/Bonux_Logo.png(Bonux)! !images/brands/Ace_Logo.png(Ace)! !images/brands/Lenor_Logo.png(Lenor)! !images/brands/Fairy_Logo.png(Fairy)! !images/brands/Mastro_Lindo_Logo.png(Mastro Lindo)! !images/brands/Head_Shoulders_Logo.png(Head & Shoulders)! !images/brands/Pantene_Logo.svg(Pantene)! !images/brands/WashGo_Logo.svg(Wash & Go)! !images/brands/Ambi_Pur_Logo.jpg(Ambi Pur)! !images/brands/Pampers_Logo.png(Pampers)! !images/brands/Always_Logo.svg(Always)! !images/brands/OralB_Logo.svg(Oral-B)!  !images/brands/AZ_Logo.png(AZ)! !images/brands/OldSpice_Logo.svg(Old Spice)! !images/brands/Gillette_Logo.svg(Gillette)! !images/brands/Braun_Logo.svg(Braun)! 
 
 
 h2. Cigare
 
-!images/brands/Davidoff_Logo.png(Davidoff)! !images/brands/West_Logo.png(West)! !images/brands/Gauloises_Logo.png(Gauloises)! !images/brands/Maxim_Slims_Logo.png(Maxim Slims)! !images/brands/Classic_Logo.png(Classic)!
+!images/brands/Davidoff_Logo.svg(Davidoff)! !images/brands/West_Logo.svg(West)! !images/brands/Gauloises_Logo.svg(Gauloises)! !images/brands/Maxim_Slims_Logo.png(Maxim Slims)! !images/brands/Classic_Logo.png(Classic)! !images/brands/Golden_Virginia_Logo.png(Golden Virginia)! !images/brands/Drum_Logo.png(Drum)! !images/brands/Rizla_Logo.png(Rizla)!
 
 
 h2. Alkool dhe Përzierës
 
-!images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/Bacardi_Logo.png(Bacardi Rum)! !images/brands/Martini_Logo.png(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.png(Bombay Sapphire Gin)! !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)!  !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/CuttySark_Logo.png(Cutty Sark Whiskey)! !images/brands/Dewars_Logo.png(Dewar's Whisky)!  !images/brands/Godet_Logo.jpg(Godet Cognac)! !images/brands/Southern_Comfort_Logo.png(Southern Comfort Liquer)!  !images/brands/AmaroLucano_Logo.png(Amaro Lucano Liquer)!  !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Tullamore_Dew_Logo.png(Tullamore Dew Whiskey)! !images/brands/Sierra_Logo.png(Sierra Tequila)! !images/brands/PepeLopez_Logo.jpg(Pepe Lopez Tequilla)! !images/brands/Chambord_Logo.jpg(Chambord Liquer)! !images/brands/Finsbury_Logo.jpg(Finsbury Gin)!  !images/brands/Plomari_Logo.png(Plomari Ouzo)! !images/brands/Cellini_Logo.png(Cellini Liquer)! !images/brands/Monin_Logo.png(Monin Syrups)!
+!images/brands/JackDaniels_Logo.png(Jack Daniels Whiskey)! !images/brands/Bacardi_Logo.svg(Bacardi Rum)! !images/brands/Martini_Logo.svg(Martini Vermouth)! !images/brands/Bombay_Sapphire_Logo.svg(Bombay Sapphire Gin)! !images/brands/Hendricks_Logo.png(Hendricks)! !images/brands/Jagermeister_Logo.png(Jagermeister Liquer)!  !images/brands/GreyGoose_Logo.png(Grey Goose Vodka)! !images/brands/Finlandia_Logo.png(Finlandia Vodka)! !images/brands/Eristoff_Logo.png(Eristoff Vodka)! !images/brands/Cutty_Sark_Logo.svg(Cutty Sark Whiskey)! !images/brands/Dewars_Logo.png(Dewar's Whisky)!  !images/brands/Godet_Logo.jpg(Godet Cognac)! !images/brands/Southern_Comfort_Logo.svg(Southern Comfort Liquer)! !images/brands/WoodfordReserve_Logo.png(Woodford Reserve Whiskey)! !images/brands/Tullamore_Dew_Logo.svg(Tullamore Dew Whiskey)! !images/brands/PepeLopez_Logo.png(Pepe Lopez Tequilla)! !images/brands/Monin_Logo.png(Monin Syrups)!
 
 h2. Birrë dhe Verë
 
@@ -28,11 +28,11 @@ h2. Birrë dhe Verë
 
 h2. Ushqime
 
-!images/brands/President_Logo.png(President)!  !images/brands/Galbani_Logo.png(Galbani)! !images/brands/Dukat_Logo.png(Dukat)! !images/brands/Lactel_Logo.png(Lactel)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)! !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.png(Mentos)! !images/brands/Big_Babol_Logo.png(Big Babol)! !images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Baci_Logo.png(Baci)! !images/brands/Perugina_Logo.png(Perugina)! !images/brands/Buitoni_Logo.png(Buitoni)! !images/brands/Llaki_Salep_Logo.png(Llaki Salep)!
+!images/brands/President_Logo.svg(President)!  !images/brands/Galbani_Logo.svg(Galbani)! !images/brands/Dukat_Logo.svg(Dukat)! !images/brands/Lactel_Logo.png(Lactel)! !images/brands/Ritter_Sport_Logo.png(Ritter Sport)! !images/brands/Chupa_Chups_Logo.png(Chupa Chups)! !images/brands/Mentos_Logo.svg(Mentos)! !images/brands/Big_Babol_Logo.png(Big Babol)! !images/brands/Schwartauer_Werke_Logo.png(Schwartauer)!  !images/brands/Corny_Logo.png(Corny)! !images/brands/Baci_Logo.png(Baci)! !images/brands/Perugina_Logo.png(Perugina)! !images/brands/Buitoni_Logo.svg(Buitoni)! !images/brands/Llaki_Salep_Logo.png(Llaki Salep)!
 
 h2. Zyra dhe Kancelari
 
-!images/brands/3M_Logo.png(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.png(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
+!images/brands/3M_Logo.svg(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.svg(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
 
 ==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
 
