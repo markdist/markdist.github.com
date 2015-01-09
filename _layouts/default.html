@@ -10,10 +10,8 @@
     <title>M&amp;D Albania - {{ page.title }}</title>
     <link href="images/Envision.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="favicon.ico" rel="shortcut icon" />
-    <link href="favicon.png" rel="apple-touch-icon">
+    <link href="favicon.png" rel="apple-touch-icon" />
     <script type="text/javascript" src="js/svgeezy.min.js"></script>
-    <script type="text/javascript">svgeezy.init(false, 'png');</script>
-
     <!--
     <style type="text/css">
     img, div, a, input { behavior: url(images/iepngfix.htc) }
@@ -68,14 +66,15 @@
       </div>
 
       <div id="footer">
-        <p>
+        <p></p>
         {% if page.lang == "sq" %}
-        <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. Të gjitha të drejtat e rezervuara.</div>
+        <div><p>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. Të gjitha të drejtat e rezervuara.</p></div>
         {% else %}
-        <div>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</div>
+        <div><p>&copy; {{ site.time | date: "%Y" }} Marketing &amp; Distribution. All rights reserved.</p></div>
         {% endif %}
       </div>
     </div>
+    <script type="text/javascript">svgeezy.init(false, 'png');</script>
   </body>
 </html>
 
