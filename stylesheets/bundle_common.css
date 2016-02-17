@@ -1175,9 +1175,9 @@ tr:hover .line-comments {
 
 #header {
 	margin: 0 auto 15px auto;
-	width: 980px;
+	width: 1000px;
 	height: 91px;
-	min-width: 950px;
+	min-width: 1000px;
 }
 
 #header .logo {
