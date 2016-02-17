@@ -1,5 +1,5 @@
 ---
-title: Promo Gillete
+title: Promo Gillette
 layout: wikistyle
 lang: en
 ---
@@ -7,5 +7,5 @@ lang: en
 Promo
 ========
 
-Promo Gillete
+Promo Gillette
 -----------
