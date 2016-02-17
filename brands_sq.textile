@@ -32,7 +32,7 @@ h2. Ushqime
 
 h2. Zyra dhe Kancelari
 
-!images/brands/3M_Logo.svg(3M)!  !images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.svg(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
+!images/brands/Fabriano_Logo.png(Fabriano)! !images/brands/Grafotisak_Logo.png(Grafotisak)! !images/brands/BIC_Logo.svg(BIC)!  !images/brands/Sony_Logo.png(Sony)!  !images/brands/Duracell_Logo.png(Duracell)!
 
 ==<!-- * Toners ** HP, Tesen, Toshiba, Samsung, Epson, Xerox, Panasonic, Oki, Dell, Lexmark, Canon -->==
 
