@@ -1,7 +1,7 @@
 ---
 title: Promo
 layout: wikistyle
-lang: en
+lang: sq
 ---
 
 Promo
