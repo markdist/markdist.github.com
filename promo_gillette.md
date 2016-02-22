@@ -9,13 +9,13 @@ Promo
 
 RREGULLORE PËR ORGANIZIMIN E LOJËRAVE TË FATIT, PROMOCIONALE
 -----------
-
-Sipas kërkesave të Vendimit Nr.770, datë 15.07.2009 të Këshillit të Ministrave “Për Përcaktimin e Mënyrave, Formave, Kritereve dhe Rregullave Shtesë për Organizimin e Lojërave të Fatit, Promocionale” hatohet kjo Rregullore (më tej referuar si  “Rregullorja”). 
+<p align="right">
+Sipas kërkesave të Vendimit Nr.770, datë 15.07.2009 të Këshillit të Ministrave “Për Përcaktimin e Mënyrave, Formave, Kritereve dhe Rregullave Shtesë për Organizimin e Lojërave të Fatit, Promocionale” hartohet kjo Rregullore (më tej referuar si  “Rregullorja”). 
 <br>Kjo Rregullore ka për qëllim të përcaktojë rregulla të qarta për mënyrën e organizimit të “Lojës Promocionale Gillette” (më tej referuar si “Loja Promocionale”), si dhe rregullat që duhet të zbatojnë pjesëmarrësit në këtë lojë. Kjo Rregullore është e vlefshme për të gjithë kohëzgjatjen e  zhvillimit të  Lojës Promocionale. 
 <br>“Loja Promocionale Gillette” organizohet nga shoqëria “Marketing & Distribution” sh.p.k, me seli në Autostradën Tiranë-Durrës, Km 10, Kashar, me NIPT J72124001N, prej datës 07 Mars 2016 ora 00:01 deri më datë 06 Maj 2016 ora 23:59. 
 <br>Me anë të kësaj Loje Promocionale, “Marketing & Distribution” sh.p.k, ka për qëllim të promovojë produktin “Gillette”.
 Territori në të cilën do të zhvillohet “Loja Promocionale Gillette” do të jetë Republika e Shqipërisë.
-
+</p>
 1.	Lloji i Lojës Promocionale
 --------
 Loja Promocionale është konceptuar si një lojë fati promocionale për blerësit e produkteve “Gillette”. Për tu bërë pjesëmarrës në lojë, për çdo blerje “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, konsumatori duhet të dërgojë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 (p.sh: Gi 0005 Rina Mira). pjesëmarrësi në lojë duhet të ruajë kuponin tatimor, dhe në rast se shpallet fitues, duhet ta dorëzojë atë në momentin e marrjes së çmimit. 
