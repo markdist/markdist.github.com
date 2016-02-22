@@ -41,16 +41,12 @@ Numri i parashikuar i pjesëmarrësve është  rreth 100,000 (njëmijë) konsuma
 Mundësia e pjesëmarrjes në Lojë është e hapur për të gjithë konsumatorët në moshën mbi 18 vjeç, që blejnë produkte “Gillette” me vlerë minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, në çdo pikë shitje në territorin e Republikës së Shqipërisë.
 <br>Nëse fituesi i përzgjedhur është një i mitur (nën moshën 18 vjeç), atëherë çmimi do ti jepet prindit ose kujdestarit ligjor. “Marketing & Distribution” sh.p.k nuk do të promovojë pjesëmarrjen e personave të mitur.
 <br>Gjatë periudhës së zhvillimit të Lojës Promocionale, të gjithë konsumatorët që blejnë produkte “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, kanë mundësinë të fitojnë një udhëtim në Francë për të parë ndeshjen e futbollit Shqipëri-Zvicër. Vlera për person e këtij udhëtimi eshte 860 Euro ose 119’540 (kursi i këmbimit është 1 euro = 139 lekë). Pjesëmarrësit duhet të dërgojnë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 për tu bërë pjesëmarrës.
-
-Përjashtimi: 
-Bëjnë përjashtim nga pjesëmarrja në këtë lojë promocionale të gjithë punonjësit e shoqërisë “Marketing & Distribution” sh.p.k  dhe familjarët e tyre.
-
-Kushtet për pjesëmarrje në lojë: 
-Të gjithë konsumatorët e interesuar që bëjnë një blerje të produkteve “Gillette” me vlerë minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, dhe dërgojnë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005, përveç atyre të përjashtuar sipas pikës 5 më lart,  regjistrohen në Lojë.
-Me dërgimin e SMS, konsumatori jep miratimin e tij për përfshirjen në këtë lojë duke pranuar automatikisht rregullat dhe mekanizmat e saj.
-
-Regjistrimi
-Çdo konsumator që kryen një blerje sipas kushteve të përcaktuara në pikën 5 më lart, bëhet pjesë e Lojës Promocionale. Për çdo SMS të dërguar, aq herë regjistrohet edhe pjesëmarrja në shorte. Një konsumator mund të dërgojë vetëm një herë sms për një numër kuponi tatimor.
+<br>Përjashtimi:  <br>Bëjnë përjashtim nga pjesëmarrja në këtë lojë promocionale të gjithë punonjësit e shoqërisë “Marketing & Distribution” sh.p.k  dhe familjarët e tyre.
+<br>Kushtet për pjesëmarrje në lojë: 
+<br>Të gjithë konsumatorët e interesuar që bëjnë një blerje të produkteve “Gillette” me vlerë minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, dhe dërgojnë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005, përveç atyre të përjashtuar sipas pikës 5 më lart,  regjistrohen në Lojë.
+<br>Me dërgimin e SMS, konsumatori jep miratimin e tij për përfshirjen në këtë lojë duke pranuar automatikisht rregullat dhe mekanizmat e saj.
+<br>Regjistrimi
+<br>Çdo konsumator që kryen një blerje sipas kushteve të përcaktuara në pikën 5 më lart, bëhet pjesë e Lojës Promocionale. Për çdo SMS të dërguar, aq herë regjistrohet edhe pjesëmarrja në shorte. Një konsumator mund të dërgojë vetëm një herë sms për një numër kuponi tatimor.
 
 6.	Regjistrimi në Lojën Promocionale
 --------
