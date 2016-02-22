@@ -18,19 +18,23 @@ Me anë të kësaj Loje Promocionale, “Marketing & Distribution” sh.p.k, ka 
 Territori në të cilën do të zhvillohet “Loja Promocionale Gillette” do të jetë Republika e Shqipërisë.
 
 1.	Lloji i Lojës Promocionale
+--------
 Loja Promocionale është konceptuar si një lojë fati promocionale për blerësit e produkteve “Gillette”. Për tu bërë pjesëmarrës në lojë, për çdo blerje “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, konsumatori duhet të dërgojë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 (p.sh: Gi 0005 Rina Mira). pjesëmarrësi në lojë duhet të ruajë kuponin tatimor, dhe në rast se shpallet fitues, duhet ta dorëzojë atë në momentin e marrjes së çmimit. 
 Shërbimi i dërgimit të SMS-ve ofrohet nga operatori “Call Center Albania” sh.p.k dhe tarifa e një SMS-je është 20 lekë/SMS + TVSH, për të gjithë territorin e Republikës së Shqipërisë. Përzgjedhja e fituesit bëhet me metodën rastësore, duke përzgjedhur një SMS nga të gjitha SMS-të e ardhura.
 
 2.	Kohëzgjatja e Lojës Promocionale
+--------
 Loja Promocionale do të fillojë më datë 07 Mars 2016 ora 00:01 dhe do të përfundojë më datë 06 Maj 2016 ora 23:59.
 
 3.	Çmimet
+--------
 Loja do të ketë 30 (tridhjetë) fitues dhe  përzgjedhja do të bëhet në datë 13 Maj ora 11:00, në ambjentet e shoqërisë “Marketing & Distribution” sh.p.k.
 Çmimi i ofruar për çdo fitues do të jetë një udhëtim në Francë për të parë ndeshjen e futbollit Shqipëri-Zvicër.
 Vlera monetare e udhëtimit për çdo fitues është 860 (tetëqindegjashtëdhjetë) Euro ose 119,540 Leke (njëqindenëntëmbëdhjetëmijëepesëqindedyzet). Kursi i këmbimit 1 Euro = 139 Lekë. 
 “Marketing & Distribution” sh.p.k mund të refuzojë dhënien e çmimeve në rast se konstaton se nuk janë respektuar kushtet e kësaj Rregulloreje, apo në rast se fituesi rezulton i tillë si pasojë e ndonjë parregullësie, truku dhe/apo mashtrimi.
 
 4.	Pritshmëritë për pjesëmarrje në Lojën Promocionale.
+--------
 Numri i parashikuar i pjesëmarrësve është  rreth 100,000 (njëmijë) konsumatorë.
 
 5.	Pjesëmarrja
