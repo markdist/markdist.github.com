@@ -8,7 +8,6 @@ Promo
 ========
 
 RREGULLORE PËR ORGANIZIMIN E LOJËRAVE TË FATIT, PROMOCIONALE
-
 -----------
 
 Sipas kërkesave të Vendimit Nr.770, datë 15.07.2009 të Këshillit të Ministrave “Për Përcaktimin e Mënyrave, Formave, Kritereve dhe Rregullave Shtesë për Organizimin e Lojërave të Fatit, Promocionale” hatohet kjo Rregullore (më tej referuar si  “Rregullorja”).
