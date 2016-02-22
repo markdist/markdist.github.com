@@ -7,10 +7,9 @@ lang: en
 Promo
 ========
 
-Promo Gillette
------------
 RREGULLORE PËR ORGANIZIMIN E LOJËRAVE 
 TË FATIT, PROMOCIONALE
+-----------
 
 Sipas kërkesave të Vendimit Nr.770, datë 15.07.2009 të Këshillit të Ministrave “Për Përcaktimin e Mënyrave, Formave, Kritereve dhe Rregullave Shtesë për Organizimin e Lojërave të Fatit, Promocionale” hatohet kjo Rregullore (më tej referuar si  “Rregullorja”).
 Kjo Rregullore ka për qëllim të përcaktojë rregulla të qarta për mënyrën e organizimit të “Lojës Promocionale Gillette” (më tej referuar si “Loja Promocionale”), si dhe rregullat që duhet të zbatojnë pjesëmarrësit në këtë lojë. Kjo Rregullore është e vlefshme për të gjithë kohëzgjatjen e  zhvillimit të  Lojës Promocionale.
@@ -20,10 +19,8 @@ Territori në të cilën do të zhvillohet “Loja Promocionale Gillette” do t
 1.	Lloji i Lojës Promocionale
 Loja Promocionale është konceptuar si një lojë fati promocionale për blerësit e produkteve “Gillette”. Për tu bërë pjesëmarrës në lojë, për çdo blerje “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, konsumatori duhet të dërgojë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 (p.sh: Gi 0005 Rina Mira). pjesëmarrësi në lojë duhet të ruajë kuponin tatimor, dhe në rast se shpallet fitues, duhet ta dorëzojë atë në momentin e marrjes së çmimit. 
 Shërbimi i dërgimit të SMS-ve ofrohet nga operatori “Call Center Albania” sh.p.k dhe tarifa e një SMS-je është 20 lekë/SMS + TVSH, për të gjithë territorin e Republikës së Shqipërisë. Përzgjedhja e fituesit bëhet me metodën rastësore, duke përzgjedhur një SMS nga të gjitha SMS-të e ardhura.
-
 2.	Kohëzgjatja e Lojës Promocionale
 Loja Promocionale do të fillojë më datë 07 Mars 2016 ora 00:01 dhe do të përfundojë më datë 06 Maj 2016 ora 23:59.
-
 3.	Çmimet
 Loja do të ketë 30 (tridhjetë) fitues dhe  përzgjedhja do të bëhet në datë 13 Maj ora 11:00, në ambjentet e shoqërisë “Marketing & Distribution” sh.p.k.
 
@@ -31,10 +28,8 @@ Loja do të ketë 30 (tridhjetë) fitues dhe  përzgjedhja do të bëhet në dat
 
 Vlera monetare e udhëtimit për çdo fitues është 860 (tetëqindegjashtëdhjetë) Euro ose 119,540 Leke (njëqindenëntëmbëdhjetëmijëepesëqindedyzet). Kursi i këmbimit 1 Euro = 139 Lekë. 
 “Marketing & Distribution” sh.p.k mund të refuzojë dhënien e çmimeve në rast se konstaton se nuk janë respektuar kushtet e kësaj Rregulloreje, apo në rast se fituesi rezulton i tillë si pasojë e ndonjë parregullësie, truku dhe/apo mashtrimi.
-
 4.	Pritshmëritë për pjesëmarrje në Lojën Promocionale.
 Numri i parashikuar i pjesëmarrësve është  rreth 100,000 (njëmijë) konsumatorë.
-
 5.	Pjesëmarrja
 Mundësia e pjesëmarrjes në Lojë është e hapur për të gjithë konsumatorët në moshën mbi 18 vjeç, që blejnë produkte “Gillette” me vlerë minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, në çdo pikë shitje në territorin e Republikës së Shqipërisë.
 Nëse fituesi i përzgjedhur është një i mitur (nën moshën 18 vjeç), atëherë çmimi do ti jepet prindit ose kujdestarit ligjor. “Marketing & Distribution” sh.p.k nuk do të promovojë pjesëmarrjen e personave të mitur.
@@ -47,17 +42,14 @@ Të gjithë konsumatorët e interesuar që bëjnë një blerje të produkteve �
 Me dërgimin e SMS, konsumatori jep miratimin e tij për përfshirjen në këtë lojë duke pranuar automatikisht rregullat dhe mekanizmat e saj.
 Regjistrimi
 Çdo konsumator që kryen një blerje sipas kushteve të përcaktuara në pikën 5 më lart, bëhet pjesë e Lojës Promocionale. Për çdo SMS të dërguar, aq herë regjistrohet edhe pjesëmarrja në shorte. Një konsumator mund të dërgojë vetëm një herë sms për një numër kuponi tatimor.
-
 6.	Regjistrimi në Lojën Promocionale
 Çdo konsumator që plotëson kushtet e pjesëmarrjes si më sipër, do të marrë pjesë në përzgjedhjen finale.
-
 7.	Përzgjedhja e fituesve
 Përzgjedhja do të bëhet në mënyrë rastësore në datë 13 Maj ora 11:00, në ambjentet e kompanisë “Marketing & Distribution” sh.p.k.
 Të gjithë mesazhet e dërguara do të printohen veç e veç, do të palosen në mënyrë që të dhënat të mos jenë të lexueshme, dhe do të hidhen në një kuti. Një përfaqësues i “Marketing & Distribution” sh.p.k  në prezencë të noterit dhe përfaqësuesit të “Lajrave të Fatit”  do të tërheqë 30 bileta fituese dhe 30 bileta të tjera rezervë.
 Pasi përzgjidhen biletat, në moment personat e përzgjedhur njoftohet nëpërmjet një telefonate rreth llotarisë dhe në moment lihet një orar në të cilin i përzgjedhuri duhet të paraqitet për të përfunduar procedurën e llotarisë.
 Në rast se pas tre telefonatash të njëpasnjëshme në numrin e përzgjedhur, për arsye të ndryshme nuk bëhet i mundur komunikimi atëherë do të kontaktohet kuponi i parë rezerve i përzgjedhur. Për kuponin rezervë ndiqet e njëjta procedurë si më sipër. Ky proces vazhdon deri në kontaktimin e të 30 fituesve.
 Në përfundim të përzgjedhjes do të mbahet dhe Proces-Verbali përkatës.
-
 8.	Njoftimi i fituesit
 “Marketing & Distribution” sh.p.k do të njoftojë fituesin pas procesit të përzgjedhjes me anë të një telefonate në numrin e telefonit të vendosur në SMS-në e dërguar.
 Fitues shpallet konsumatori i cili identifikohet nëpërmjet një mjeti identifikimi dhe paraqet gjitahshtu kuponin tatimor që vërteton kryerjen e blerjes, dhe që korrespondon me numrin e kuponit tatimor të dërguar me SMS. 
