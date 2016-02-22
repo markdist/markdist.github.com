@@ -18,15 +18,15 @@ Territori në të cilën do të zhvillohet “Loja Promocionale Gillette” do t
 </p>
 1.	Lloji i Lojës Promocionale
 --------
-<p align="justify">
+<div align="justify">
 Loja Promocionale është konceptuar si një lojë fati promocionale për blerësit e produkteve “Gillette”. Për tu bërë pjesëmarrës në lojë, për çdo blerje “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, konsumatori duhet të dërgojë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 (p.sh: Gi 0005 Rina Mira). pjesëmarrësi në lojë duhet të ruajë kuponin tatimor, dhe në rast se shpallet fitues, duhet ta dorëzojë atë në momentin e marrjes së çmimit. 
 <br>Shërbimi i dërgimit të SMS-ve ofrohet nga operatori “Call Center Albania” sh.p.k dhe tarifa e një SMS-je është 20 lekë/SMS + TVSH, për të gjithë territorin e Republikës së Shqipërisë. Përzgjedhja e fituesit bëhet me metodën rastësore, duke përzgjedhur një SMS nga të gjitha SMS-të e ardhura.
-</p>
+</div>
 2.	Kohëzgjatja e Lojës Promocionale
 --------
-<p align="justify">
+<div align="justify">
 Loja Promocionale do të fillojë më datë 07 Mars 2016 ora 00:01 dhe do të përfundojë më datë 06 Maj 2016 ora 23:59.
-</p>
+</div>
 3.	Çmimet
 --------
 <p align="justify">
