@@ -70,6 +70,7 @@ Përzgjedhja do të bëhet në mënyrë rastësore në datë 13 Maj ora 11:00, n
 <br>Fitues shpallet konsumatori i cili identifikohet nëpërmjet një mjeti identifikimi dhe paraqet gjitahshtu kuponin tatimor që vërteton kryerjen e blerjes, dhe që korrespondon me numrin e kuponit tatimor të dërguar me SMS.
 
 9.	Regjistrimi i Fituesit
+
 --------
 Fituesi i përzgjedhur duhet të paraqitet në ditën, orarin dhe vendin që do ti komunikohet nga “Marketing & Distribution” sh.p.k për tu regjistruar si fitues, dhe do të marrë në dorëzim dhuratën. Në të kundërt, në rast mosparaqitjeje, konsumatori i përzgjedhur fitues do të humbasë çmimin e fituar.
 <br>Në momentin e dorëzimit të dhuratës do të mbahet dhe Proçes-Verbali përkatës.
