@@ -26,4 +26,11 @@ Neni 2 Territori, Logjistika dhe Kohëzgjatja e Fushatës
 mban më përgjegjësi dhe nuk ka më detyrime të mëtejshme, për asnjë rrethanë, që mund të bëjë klientët të mendojnë se promocioni është ende në vazhdim.
 <br>(4) Të gjitha llogaritë e shpenzimeve të parashikuara dhe të paraqitura në mekanizmin e Fushatës duhet të deklarohen sipas parashikimeve të saj në Nenin 5, Pika 4, dhe deri më 30 prill, 2016 (data e postimit), në të kundërt ato nuk do të njihen nga Organizatori.
 
+Neni 3 Produktet pjesëmarrëse
+--------
+(1) Produktet që marrin pjesë në këtë Fushatë janë të gjitha llojet e produkteve të “Head & Shoulders” (pavarësisht llojit të tyre).
+
+
+
+
                                                            *** 
