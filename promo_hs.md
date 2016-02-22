@@ -123,5 +123,8 @@ Rregullorja zyrtare hartohet në 4 (katër) kopje origjinale, nga të cilat, 3 (
 </p>
 
 
+<a href="images/questionnaire.jpg" download="questionnaire.jpg.jpg" title="Questionnaire">
+    <img src="images/questionnaire.jpg" alt="Questionnaire">
+</a>
 
                                                            *** 
