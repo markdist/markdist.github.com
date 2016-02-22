@@ -30,7 +30,16 @@ Neni 3 Produktet pjesëmarrëse
 --------
 (1) Produktet që marrin pjesë në këtë Fushatë janë të gjitha llojet e produkteve të “Head & Shoulders” (pavarësisht llojit të tyre).
 
-
-
+Neni 4 E drejta për të marrë pjesë dhe e drejta për rimbursim
+--------
+(1) Çdo person fizik që është të paktën 18 vjeç mund të marrë pjesë në këtë fushatë (në vijim referuar si " pjesëmarrës ") i cili, gjatë periudhës së përcaktuar në Nenin 2, Pika 2 , ka blerë dhe përdorur një nga produktet e “Head & Shoulders”, të përmendura në Nenin 3.1.
+<br>(2) Çdo pjesëmarrës në Fushatë mund të rimbursohet, vetëm nëse vlera e produktit të blerë të “Head & Shoulders”, është shënuar në kuponin/faturën tatimore, dhe nëse plotëson njëkohësisht kushtet e mëposhtme:
+<br>i) merr pjesë në fushatë, duke pranuar në tërësi dhe me vullnetin e tij të lirë dispozitat e kësaj rregullore.
+<br>ii) respekton dispozitat e mëposhtme:
+<br>- Blen të paktën një produkt të “Head & Shoulders”, siç parashikohet në Nenin 3, Pika 1, gjatë periudhës së promocionit (1 shkurt deri 30 prill 2016) nga çdo dyqan në Shqipëri.
+<br>- Deri më 30 Prill 2016, nëse pjesëmarrësi nuk është i kënaqur me produktin, ai/ajo mund ta kthejë produktin maksimumi brenda 60 ditëve nga blerja. Produkti pjesëmarrës duhet të jetë në pakon origjinale dhe me përmbajtjen origjinale.
+Produkti duhet të ketë të paktën ¾ e përmbajtjes fillestare; kopja e faturës së produktit duhet të përcaktojë çmimin e produktit dhe datën e blerjes;
+<br>- Të dërgojë një letër që shpjegon arsyen përse konsumatori nuk është i kënaqur me produktin dhe mënyrën si e ka përdorur produktin. Letra duhet gjithashtu të përmbajë të dhëna identifikuese: emër, mbiemër dhe numër telefoni, dhe ta dërgojë atë në adresën: "Marketing and Distribution", Autostrada Tiranë - Durrës, Km 10", Tiranë.
+<br>- Me marrjen pjesë në këtë fushatë, konsumatori jep pëlqimin e tij që të dhënat e tij personale të përfshihen në bazën e të dhënave, në lidhje me Pjesëmarrësit në këtë Fushatë, vetëm për qëllime të mbarëvajtjes së kësaj fushate dhe rimbursimin e parave. Të dhënat personale të pjesëmarrësve nuk do të përdoren për qëllime të tjera pas mbarimit të fushatës.
 
                                                            *** 
