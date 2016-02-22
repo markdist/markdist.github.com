@@ -24,8 +24,9 @@ Loja Promocionale është konceptuar si një lojë fati promocionale për blerë
 </p>
 2.	Kohëzgjatja e Lojës Promocionale
 --------
+<p align="justify">
 Loja Promocionale do të fillojë më datë 07 Mars 2016 ora 00:01 dhe do të përfundojë më datë 06 Maj 2016 ora 23:59.
-
+</p>
 3.	Çmimet
 --------
 <p align="justify">
@@ -36,8 +37,9 @@ Loja do të ketë 30 (tridhjetë) fitues dhe  përzgjedhja do të bëhet në dat
 </p>
 4.	Pritshmëritë për pjesëmarrje në Lojën Promocionale.
 --------
+<p align="justify">
 Numri i parashikuar i pjesëmarrësve është  rreth 100,000 (njëmijë) konsumatorë.
-
+</p>
 5.	Pjesëmarrja
 --------
 <p align="justify">
@@ -53,8 +55,9 @@ Mundësia e pjesëmarrjes në Lojë është e hapur për të gjithë konsumator�
 </p>
 6.	Regjistrimi në Lojën Promocionale
 --------
+<p align="justify">
 Çdo konsumator që plotëson kushtet e pjesëmarrjes si më sipër, do të marrë pjesë në përzgjedhjen finale.
-
+</p>
 7.	Përzgjedhja e fituesve
 --------
 <p align="justify">
