@@ -6,6 +6,7 @@ lang: en
 
 Promo
 ========
+
 RREGULLORE PËR ORGANIZIMIN E LOJËRAVE TË FATIT, PROMOCIONALE
 -----------
 
