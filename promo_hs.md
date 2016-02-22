@@ -18,6 +18,7 @@ Neni 1 <br> Organizatorët dhe Rregullorja Zyrtare e Fushatës Promocionale
 <br>(3) Rregullorja zyrtare është e disponueshme pa pagesë shtesë për çdo person që është i interesuar, në çdo moment gjatë fushatës; Rregullorja mund të gjendet në faqen e internetit: www.markdist.com/promo. Çdo person i interesuar mund të kërkojë rregullat në numrin e telefonit që është dhënë në këtë rregullore.
 <br>(4) Organizatori rezervon të drejtën të plotësojë dhe/ose të modifikojë Rregulloren zyrtare; plotësimi dhe/ose modifikimi i Rregullores duhet të bëhet publik, sipas mënyrave të përcaktuara në Nenin 1, pika (3).
 </p>
+
 Neni 2 <br>Territori, Logjistika dhe Kohëzgjatja e Fushatës
 --------
 (1) Fushata do të kryhet dhe organizohet brenda territorit të Shqipërisë.
