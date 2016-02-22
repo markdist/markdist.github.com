@@ -10,7 +10,7 @@ Promo
 “GARANCIA PËR RIKTHIMIN E PARAVE NGA HEAD &amp; SHOULDERS” RREGULLORJA E PROMOCIONIT
 -----------
 
-Neni 1 Organizatorët dhe Rregullorja Zyrtare e Fushatës Promocionale
+Neni 11 Organizatorët dhe Rregullorja Zyrtare e Fushatës Promocionale
 -----------
 
 (1) Fushata promocionale “GARANCIA PËR RIKTHIMIN E PARAVE NGA H&S”, më poshtë referuar si “Fushata”, organizohet dhe zhvillohet nga “New Moment’’ Sh.p.k me seli në Rr. “Mustafa Matohiti”, Nr.4, Tiranë, Shqipëri, më poshtë referuar si “Organizatori”; fushata bëhet për llogari dhe në interes të Shoqërisë "Procter & Gamble Distribution Romania.
