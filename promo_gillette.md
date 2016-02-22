@@ -6,7 +6,6 @@ lang: en
 
 Promo
 ========
-<div style="text-align: center;"><img class="border" src="images/vans.jpg" alt="Fleet"/></div>
 RREGULLORE PËR ORGANIZIMIN E LOJËRAVE TË FATIT, PROMOCIONALE
 -----------
 
