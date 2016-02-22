@@ -30,7 +30,7 @@ Neni 3 <br>Produktet pjesëmarrëse
 --------
 (1) Produktet që marrin pjesë në këtë Fushatë janë të gjitha llojet e produkteve të “Head & Shoulders” (pavarësisht llojit të tyre).
 
-Neni 4 E drejta për të marrë pjesë dhe e drejta për rimbursim
+Neni 4 <br>E drejta për të marrë pjesë dhe e drejta për rimbursim
 --------
 (1) Çdo person fizik që është të paktën 18 vjeç mund të marrë pjesë në këtë fushatë (në vijim referuar si " pjesëmarrës ") i cili, gjatë periudhës së përcaktuar në Nenin 2, Pika 2 , ka blerë dhe përdorur një nga produktet e “Head & Shoulders”, të përmendura në Nenin 3.1.
 <br>(2) Çdo pjesëmarrës në Fushatë mund të rimbursohet, vetëm nëse vlera e produktit të blerë të “Head & Shoulders”, është shënuar në kuponin/faturën tatimore, dhe nëse plotëson njëkohësisht kushtet e mëposhtme:
@@ -42,7 +42,7 @@ Produkti duhet të ketë të paktën ¾ e përmbajtjes fillestare; kopja e fatur
 <br>- Të dërgojë një letër që shpjegon arsyen përse konsumatori nuk është i kënaqur me produktin dhe mënyrën si e ka përdorur produktin. Letra duhet gjithashtu të përmbajë të dhëna identifikuese: emër, mbiemër dhe numër telefoni, dhe ta dërgojë atë në adresën: "Marketing and Distribution", Autostrada Tiranë - Durrës, Km 10", Tiranë.
 <br>- Me marrjen pjesë në këtë fushatë, konsumatori jep pëlqimin e tij që të dhënat e tij personale të përfshihen në bazën e të dhënave, në lidhje me Pjesëmarrësit në këtë Fushatë, vetëm për qëllime të mbarëvajtjes së kësaj fushate dhe rimbursimin e parave. Të dhënat personale të pjesëmarrësve nuk do të përdoren për qëllime të tjera pas mbarimit të fushatës.
 
-Neni 5 Mekanizmi i fushatës
+Neni 5 <br>Mekanizmi i fushatës
 --------
 (1) Për të marrë pjesë në këtë program, pjesëmarrësit duhet të kenë blerë gjatë periudhës së promocionit dhe të kenë përdorur, sipas përcaktimeve të mësipërme, çdo produkt të “Head & Shoulders”, sipas Nenit 3, Pika 1, dhe duhet t’i dërgojnë Organizatorit kërkesën për rimbursimin e parave sipas përcaktimeve të Nenit 4, më sipër.
 <br>(2) Organizatori, sipas rregullave të përcaktuara në këtë rregullore, i garanton konsumatorit-pjesëmarrësi:
@@ -52,12 +52,12 @@ Neni 5 Mekanizmi i fushatës
 <br>(4) Paratë do të rikthehen vetëm në ato raste kur konsumatori nuk është i kënaqur me rezultatet e përdorimit të produktit dhe nëse i plotëson kushtet e përmendura në këtë rregullore.
 <br>(5) Rregullat e rregullores së promocionit “GARANCIA PËR RIKTHIMIN E PARAVE NGA H&S” nuk kufizojnë të drejtat e konsumatorëve të parashikuara me ligj. Përtej fushatës, konsumatorët kanë të drejtë të pretendojnë në lidhje me performancën e produktit në përputhje me ligjet e zbatueshme në adresat e përcaktuara në paketim.
 
-Neni 6 Rikthimi i shumës së barasvlershme
+Neni 6 <br>Rikthimi i shumës së barasvlershme
 --------
 (1) Çdo pjesëmarrës mund t’i rikthehen paratë vetëm një herë, në vlerën dhe monedhën vendase, të produktit “Head & Shoulders” që ka blerë dhe përdorur vetëm gjatë fushatës promocionale.
 <br> (2) Pasi paketa të merret në dorëzim në adresën e caktuar, do të vlerësohet prej personave të caktuar nga New Moment. Paratë e specifikuara në faturë do të dërgohen tek pjesëmarrësit përmes një çeku personal, maksimumi brenda 60 ditësh.
 
-Neni 7 Të dhënat personale
+Neni 7 <br>Të dhënat personale
 --------
 (1) Me marrjen pjesë në këtë Fushatë, Pjesëmarrësit konfirmojnë se janë në dijeni të Rregullores zyrtare dhe shprehin pëlqimin e tyre në tërësi.
 <br>(2) Duke marrë pjesë në këtë Fushatë, Pjesëmarrësit japin pëlqimin e tyre për tu përfshirë në bazën e të dhënave të Organizatorit, të krijuar gjatë kohëzgjatjes së Fushatës për qëllimin e mbarëvajtjes së kësaj fushate.
@@ -71,18 +71,18 @@ promocion dhe nuk do të përdoren për qëllime të mëtejshme pas mbarimit të
 <br>Çdo pjesëmarrës mund të ushtrojë këto të drejta, duke dërguar një kërkesë me shkrim tek “New Moment” Sh.p.k, Rr. “Mustafa Matohiti”, Nr.4
 <br>(6) Çdo pjesëmarrës ka të drejtë të kërkojë me shkrim, me anë të një letre, drejtuar Organizatorit, të përmendur më sipër, përjashtimin nga baza e të dhënave e këtij të fundit; Organizatori është i detyruar të ndalojë përpunimin e të dhënave personale të ankimuesit.
 
-Neni 8 Përfundimi i fushatës para mbarimit të afatit zyrtar
+Neni 8 <br>Përfundimi i fushatës para mbarimit të afatit zyrtar
 --------
 (1) Fushata mund të mbyllet përpara afatit zyrtar, për shkak të një ngjarje që përbën rast të forcës madhore, si edhe në rastet kur Organizatori është në pamundësi të vazhdimit të Fushatës.
 <br>(2) Në situatat e përmendura në Nenin 8, pika (1) përfshihen aktet e zbatueshme të një Gjykate kompetente, apo të një autoriteti tjetër publik kompetent.
 <br>(3) Në situatat e përcaktuara në Nenin 8, Pika (1) dhe (2), organizatori nuk ka asnjë detyrim të mëtejshëm ndaj pjesëmarrësve, në lidhje me rimbursimin e një shume ose pagesën e një shume parash si kompensim apo ndonjë rast tjetër të ngjashëm. Mbyllja e fushatës përpara afatit zyrtar duhet të bëhet publike nëpërmjet mënyrave të përcaktuara në nenin 1, pika (3).
 
-Neni 9 Mosmarrëveshjet dhe ligji i zbatueshëm
+Neni 9 <br>Mosmarrëveshjet dhe ligji i zbatueshëm
 --------
 (1) Mosmarrëveshjet e mundshme që mund të ndodhin ndërmjet Organizatorit nga njëra anë, dhe pjesëmarrësve, nga ana tjetër, do të zgjidhen në mënyrë miqësore, ose në rast se kjo nuk është e mundur, mosmarrëveshjet do të zgjidhen nga Gjykata kompetente e Tiranës, sipas legjislacionit në fuqi.
 <br>(2) Ligji i zbatueshëm është ligji shqiptar.
 
-Neni 10 Përgjegjësia
+Neni 10 <br>Përgjegjësia
 --------
 (1) Organizatori rezervon të drejtën të mbyllë Fushatën para datës së përmendur (30 prill ), në këto rrethana, Organizatori është i detyruar:
 <br>- të njoftojë publikisht mbylljen e fushatës, minimumi 24 orë përpara (nëpërmjet çdo kanali të medias apo faqe Interneti, siç parashikohet në Nenin 1, Pika 3)
@@ -97,7 +97,7 @@ Neni 10 Përgjegjësia
 <br>(4) Organizatori ka të drejtë të mos pranojë ato pako, të cilat përmbajnë informacion të rremë, ose ndryshe informacion dukshëm të pavërtetë, me adresë të palexueshme, dhe që nuk plotësojnë kushtet e vlefshmërisë të përcaktuara në Nenin 5, të gjitha pikat.
 <br>(5) Të gjitha ankesat ligjore, të dërguara, do të merren në konsideratë vetëm nëse dërgohet deri më 30 prill 2016.
 
-Neni 11 Kopjet e Rregullores Zyrtare
+Neni 11 <br>Kopjet e Rregullores Zyrtare
 --------
 Rregullorja zyrtare hartohet në 4 (katër) kopje origjinale, nga të cilat, 3 (tre) kopje origjinale i dorëzohen Organizatorit.
 
