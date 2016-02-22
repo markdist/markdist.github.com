@@ -16,6 +16,7 @@ Sipas kërkesave të Vendimit Nr.770, datë 15.07.2009 të Këshillit të Minist
 <br>Me anë të kësaj Loje Promocionale, “Marketing & Distribution” sh.p.k, ka për qëllim të promovojë produktin “Gillette”.
 Territori në të cilën do të zhvillohet “Loja Promocionale Gillette” do të jetë Republika e Shqipërisë.
 </p>
+
 1.	Lloji i Lojës Promocionale
 --------
 Loja Promocionale është konceptuar si një lojë fati promocionale për blerësit e produkteve “Gillette”. Për tu bërë pjesëmarrës në lojë, për çdo blerje “Gillette” me vlere minimale 300 (treqindmijë) Lekë me tvsh ose 250 (dyqindepesëdhjetë) Lekë pa tvsh, konsumatori duhet të dërgojë një SMS me tekstin “Gi (hapësirë) numrin e kuponit tatimor (hapësirë) Emër (hapësirë) Mbiemër” në numrin 55005 (p.sh: Gi 0005 Rina Mira). pjesëmarrësi në lojë duhet të ruajë kuponin tatimor, dhe në rast se shpallet fitues, duhet ta dorëzojë atë në momentin e marrjes së çmimit. 
