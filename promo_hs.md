@@ -122,6 +122,5 @@ Neni 11 <br>Kopjet e Rregullores Zyrtare
 Rregullorja zyrtare hartohet në 4 (katër) kopje origjinale, nga të cilat, 3 (tre) kopje origjinale i dorëzohen Organizatorit.
 </p>
 
-<a download="myimage"><img src="/images/questionnaire.jpg" /></a>
 
                                                            *** 
